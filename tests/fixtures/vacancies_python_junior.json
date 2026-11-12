@@ -1,0 +1,2568 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1399013,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "llm",
+        "rag"
+      ],
+      "slug": "1399013-python-ai-developer",
+      "title": "Python Developer (AI)",
+      "original_title": "Python Developer",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom",
+        "ireland"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Python Developer (AI) (Python/LLM Agents): Building customer-facing features and LLM-powered agents for XpertOS, an agentic SaaS product, with an accent on product thinking, AI coding agents, retrieval, prompts, tools, and evaluation. Focus on designing reliable agent workflows, developing and testing Python functionality, and shaping solutions around customer needs.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 10599,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/xtremepush/people/",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1399013.jpg?v=1794408039",
+      "created_at": "2026-11-11T14:40:15.000000Z",
+      "updated_at": "2026-11-11T14:40:36.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom",
+        "ireland"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "ireland",
+        "united_kingdom"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 26,
+          "name": "testing"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 398,
+          "name": "llm"
+        },
+        {
+          "id": 399,
+          "name": "rag"
+        },
+        {
+          "id": 79643,
+          "name": "agentic development"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        },
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        },
+        {
+          "id": 119,
+          "code": "product_engineer",
+          "name": "Продуктовый инженер",
+          "name_en": "Product Engineer"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        },
+        {
+          "id": 22,
+          "code": "ireland",
+          "name": "Ирландия",
+          "name_en": "Ireland"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 49,
+          "code": "london",
+          "name": "Лондон",
+          "name_en": "London",
+          "country_code": "united_kingdom",
+          "pivot": {
+            "vacancy_id": 1399013,
+            "city_id": 49
+          }
+        },
+        {
+          "id": 145,
+          "code": "dublin",
+          "name": "Дублин",
+          "name_en": "Dublin",
+          "country_code": "ireland",
+          "pivot": {
+            "vacancy_id": 1399013,
+            "city_id": 145
+          }
+        }
+      ]
+    },
+    {
+      "id": 1397100,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "django",
+        "postgresql"
+      ],
+      "slug": "1397100-junior-python-web-developer",
+      "title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+      "original_title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "germany"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Junior Software Developer - Python & Web Applications (m/f/d) (Python/Django/Streamlit): Building data-focused web applications, pipelines, visualizations, and insight reports with an accent on data preparation, validation, and analytics workflows. Focus on learning AWS and ETL processes, developing PostgreSQL queries, and creating reliable tools for market research and ranking products.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 13078,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1397100.jpg?v=1794388381",
+      "created_at": "2026-11-11T09:12:48.000000Z",
+      "updated_at": "2026-11-11T09:13:00.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "germany"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "germany",
+        "united_kingdom",
+        "united_states",
+        "japan"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "r",
+        "html",
+        "css",
+        "javascript"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "germany"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 49,
+          "name": "data analysis"
+        },
+        {
+          "id": 70,
+          "name": "git"
+        },
+        {
+          "id": 109,
+          "name": "django"
+        },
+        {
+          "id": 281,
+          "name": "etl"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 1495,
+          "name": "streamlit"
+        },
+        {
+          "id": 21590,
+          "name": "postgresql"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 33,
+          "code": "web_dev",
+          "name": "Веб разработка",
+          "name_en": "Web Development"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 46,
+          "code": "germany",
+          "name": "Германия",
+          "name_en": "Germany"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 876,
+          "code": "hamburg",
+          "name": "Гамбург",
+          "name_en": "Hamburg",
+          "country_code": "germany",
+          "pivot": {
+            "vacancy_id": 1397100,
+            "city_id": 876
+          }
+        },
+        {
+          "id": 70,
+          "code": "berlin",
+          "name": "Берлин",
+          "name_en": "Berlin",
+          "country_code": "germany",
+          "pivot": {
+            "vacancy_id": 1397100,
+            "city_id": 70
+          }
+        }
+      ]
+    },
+    {
+      "id": 1391775,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "kubernetes",
+        "etl"
+      ],
+      "slug": "1391775-software-infrastructure-engineer-python",
+      "title": "Software Engineer - Infrastructure (Python)",
+      "original_title": "Software Engineer - Infrastructure",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Software Engineer - Infrastructure (Python): Building scalable data-platform and infrastructure capabilities for enterprise AI services with an accent on cloud-native architecture, distributed systems, and reliable AI workloads. Focus on designing ETL/ELT pipelines, provisioning secure agentic infrastructure, optimizing predictive modeling platforms, and improving automated testing and compliance.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 773,
+      "macroregion_id": 1,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/celonis/people/",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1391775.jpg?v=1794326593",
+      "created_at": "2026-11-10T16:03:00.000000Z",
+      "updated_at": "2026-11-10T16:03:11.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_states"
+      ],
+      "location_reason": "unspecified",
+      "timezone_overlap": null,
+      "office_locations": [
+        "germany",
+        "united_states"
+      ],
+      "visa_sponsorship": false,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "eks",
+        "azure aks"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 51,
+          "name": "kubernetes"
+        },
+        {
+          "id": 112,
+          "name": "docker"
+        },
+        {
+          "id": 175,
+          "name": "cloud"
+        },
+        {
+          "id": 202,
+          "name": "azure"
+        },
+        {
+          "id": 281,
+          "name": "etl"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 364,
+          "name": "gcp"
+        },
+        {
+          "id": 1651,
+          "name": "data processing"
+        },
+        {
+          "id": 2660,
+          "name": "elt"
+        }
+      ],
+      "salary": {
+        "id": 571806,
+        "vacancy_id": 1391775,
+        "currency": "USD",
+        "salary_period": "year",
+        "min": 134000,
+        "max": 158000,
+        "salary_in_usd": 12167,
+        "created_at": "2026-11-10T16:03:11.000000Z",
+        "updated_at": "2026-11-10T16:03:11.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 63,
+          "code": "data_engineering",
+          "name": "Дата-инженер",
+          "name_en": "Data Engineer"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1390968,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "azure",
+        "power platform"
+      ],
+      "slug": "1390968-junior-developer-azure-python",
+      "title": "Junior Developer — Digital Experience, Automation & Transformation (Azure, Power Platform & Python)",
+      "original_title": "Junior Developer — Digital Experience, Automation & Transformation",
+      "vacancy_score": 7,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "onsite"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": null,
+      "vacancy_language": "en",
+      "tldr": "Junior Developer — Digital Experience, Automation & Transformation (Azure, Power Platform & Python): Building internal applications, automations, APIs and data integrations for a commodity trading business with an accent on Python, Azure, Power Platform and AI-assisted document processing. Focus on connecting business-critical systems, structuring operational data, and delivering scalable solutions across international trading and operational functions.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 22539,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/marlin-selection",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1390968.jpg?v=1794319386",
+      "created_at": "2026-11-10T14:02:57.000000Z",
+      "updated_at": "2026-11-10T14:03:05.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom",
+        "united_arab_emirates",
+        "singapore",
+        "china"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "app services",
+        "azure functions",
+        "logic apps",
+        "azure ai services",
+        "power apps",
+        "power automate",
+        "html",
+        "css",
+        "flask",
+        "django",
+        "ci cd pipelines",
+        "github actions",
+        "workflow automation",
+        "systems integration"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_kingdom"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 70,
+          "name": "git"
+        },
+        {
+          "id": 103,
+          "name": "javascript"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 202,
+          "name": "azure"
+        },
+        {
+          "id": 248,
+          "name": "json"
+        },
+        {
+          "id": 426,
+          "name": "automation"
+        },
+        {
+          "id": 8374,
+          "name": "power platform"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 4,
+          "code": "fullstack_dev",
+          "name": "Фулстек",
+          "name_en": "Fullstack"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 49,
+          "code": "london",
+          "name": "Лондон",
+          "name_en": "London",
+          "country_code": "united_kingdom",
+          "pivot": {
+            "vacancy_id": 1390968,
+            "city_id": 49
+          }
+        },
+        {
+          "id": 25,
+          "code": "dubai",
+          "name": "Дубай",
+          "name_en": "Dubai",
+          "country_code": "united_arab_emirates",
+          "pivot": {
+            "vacancy_id": 1390968,
+            "city_id": 25
+          }
+        },
+        {
+          "id": 394,
+          "code": "сингапур",
+          "name": "Сингапур",
+          "name_en": "Singapore",
+          "country_code": "singapore",
+          "pivot": {
+            "vacancy_id": 1390968,
+            "city_id": 394
+          }
+        }
+      ]
+    },
+    {
+      "id": 1390732,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "django",
+        "sql"
+      ],
+      "slug": "1390732-junior-python-backend-developer",
+      "title": "Junior Backend Developer (Python)",
+      "original_title": "Junior Backend Developer (Python)",
+      "vacancy_score": 7,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "remote",
+        "hybrid",
+        "onsite"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "poland"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": [
+        {
+          "level": "c1",
+          "language": "polish"
+        }
+      ],
+      "employee_type": [
+        "employment",
+        "b2b_contract"
+      ],
+      "company_type": "outsourcing_company",
+      "vacancy_language": "en",
+      "tldr": "Junior Backend Developer (Python) (Python/Django): Writing clean, maintainable backend code and improving products for US clients with an accent on Python fundamentals, Django, RESTful APIs, SQL databases, and AI-assisted development. Focus on translating business complexity into technical solutions, reviewing code, documenting implementations, and building reliable solutions with Scrum teams.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 22524,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/masterborn",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1390732.jpg?v=1794317693",
+      "created_at": "2026-11-10T13:34:43.000000Z",
+      "updated_at": "2026-11-10T13:34:51.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "poland"
+      ],
+      "location_reason": "unspecified",
+      "timezone_overlap": "Polish time zone",
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "django rest framework",
+        "fastapi",
+        "flask",
+        "django admin",
+        "pytest",
+        "celery",
+        "redis",
+        "stripe",
+        "zuora",
+        "aws",
+        "serverless",
+        "docker"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "poland"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 70,
+          "name": "git"
+        },
+        {
+          "id": 109,
+          "name": "django"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 479,
+          "name": "oop"
+        },
+        {
+          "id": 879,
+          "name": "solid"
+        },
+        {
+          "id": 1667,
+          "name": "dry"
+        },
+        {
+          "id": 21590,
+          "name": "postgresql"
+        }
+      ],
+      "salary": {
+        "id": 571397,
+        "vacancy_id": 1390732,
+        "currency": "PLN",
+        "salary_period": "month",
+        "min": 6000,
+        "max": 10000,
+        "salary_in_usd": 2044,
+        "created_at": "2026-11-10T13:34:51.000000Z",
+        "updated_at": "2026-11-10T13:34:51.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 16,
+          "code": "poland",
+          "name": "Польша",
+          "name_en": "Poland"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 567,
+          "code": "wroclaw",
+          "name": "Вроцлав",
+          "name_en": "Wroclaw",
+          "country_code": "poland",
+          "pivot": {
+            "vacancy_id": 1390732,
+            "city_id": 567
+          }
+        }
+      ]
+    },
+    {
+      "id": 1382095,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "big data",
+        "spark"
+      ],
+      "slug": "1382095-python-developer-big-data",
+      "title": "Experience Python Developer (Python)",
+      "original_title": "Experience Python Developer",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": null,
+      "remote_restrictions": [
+        "israel"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "corporation",
+      "vacancy_language": "en",
+      "tldr": "Experience Python Developer (Python/Big Data): Designing and developing high-performance systems for Mobileye's automatic high-definition map-making process with an accent on algorithmic software, massively parallel processing, and complex map-generation components. Focus on building essential map logic, collaborating with algorithmic and cross-functional teams, and solving demanding technical challenges for autonomous driving systems.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 14108,
+      "macroregion_id": 7,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1382095.jpg?v=1794214206",
+      "created_at": "2026-11-09T08:49:58.000000Z",
+      "updated_at": "2026-11-09T08:50:02.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "israel"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "israel"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "services"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "israel"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 140,
+          "name": "software development"
+        },
+        {
+          "id": 292,
+          "name": "algorithms"
+        },
+        {
+          "id": 900,
+          "name": "spark"
+        },
+        {
+          "id": 1065,
+          "name": "big data"
+        },
+        {
+          "id": 22501,
+          "name": "high performance computing"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 39,
+          "code": "israel",
+          "name": "Израиль",
+          "name_en": "Israel"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 34,
+          "code": "jerusalem",
+          "name": "Иерусалим",
+          "name_en": "Jerusalem",
+          "country_code": "israel",
+          "pivot": {
+            "vacancy_id": 1382095,
+            "city_id": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": 1335616,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "fastapi",
+        "langchain"
+      ],
+      "slug": "1335616-python-developer-ai-llm-rag",
+      "title": "Python Developer (AI)",
+      "original_title": "Python Developer (AI / LLM / RAG)",
+      "vacancy_score": 7,
+      "company_title": "JumpSpace",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "global",
+      "remote_restrictions": [],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": null,
+      "vacancy_language": "ru",
+      "tldr": "Python Developer (AI/LLM): разработка backend-сервисов и интеграция LLM API с акцентом на создание AI-агентов и RAG-систем. Фокус на проектировании пайплайнов обработки данных и оптимизации поиска с использованием LangChain и LangGraph.",
+      "application_instructions": null,
+      "text_mode": "original",
+      "user_id": null,
+      "recruiter_meta_id": 3509,
+      "application_channel": "platform",
+      "suppress_distribution": false,
+      "company_id": 20698,
+      "macroregion_id": null,
+      "premium": false,
+      "verified": true,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "verified",
+      "source_secondary": "hirify_recruiter",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1335616.jpg?v=1793276608",
+      "created_at": "2026-10-29T10:19:44.000000Z",
+      "updated_at": "2026-11-08T10:20:03.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [],
+      "location_reason": null,
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": true,
+      "apply_url": null,
+      "location_scope": "anywhere",
+      "eligible_countries": [],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-24T14:19:44+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 109,
+          "name": "django"
+        },
+        {
+          "id": 110,
+          "name": "flask"
+        },
+        {
+          "id": 111,
+          "name": "fastapi"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 398,
+          "name": "llm"
+        },
+        {
+          "id": 399,
+          "name": "rag"
+        },
+        {
+          "id": 400,
+          "name": "langchain"
+        },
+        {
+          "id": 9184,
+          "name": "langgraph"
+        },
+        {
+          "id": 21590,
+          "name": "postgresql"
+        }
+      ],
+      "salary": {
+        "id": 546749,
+        "vacancy_id": 1335616,
+        "currency": "USDT",
+        "salary_period": null,
+        "min": 600,
+        "max": 2000,
+        "salary_in_usd": 1300,
+        "created_at": "2026-10-29T10:19:47.000000Z",
+        "updated_at": "2026-10-29T10:19:47.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        },
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        },
+        {
+          "id": 3,
+          "name": "middle"
+        },
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1378670,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "aws",
+        "docker"
+      ],
+      "slug": "1378670-python-ai-backend-developer",
+      "title": "Python Developer (AI)",
+      "original_title": "Python Developer",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "spain"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "corporation",
+      "vacancy_language": "en",
+      "tldr": "Python Developer (AI) (Python, AWS, Machine Learning): Building scalable, secure cloud-native backend applications and APIs for Finance with an accent on artificial intelligence, data science, machine learning, and enterprise integrations. Focus on developing microservices, integrating AI capabilities into production solutions, and strengthening quality through automated testing and continuous delivery.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 20900,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/novartis-czech-republic",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1378670.jpg?v=1794006491",
+      "created_at": "2026-11-06T23:08:07.000000Z",
+      "updated_at": "2026-11-06T23:08:10.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "spain"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "spain"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 55,
+          "name": "backend"
+        },
+        {
+          "id": 84,
+          "name": "data science"
+        },
+        {
+          "id": 112,
+          "name": "docker"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 480,
+          "name": "microservices"
+        },
+        {
+          "id": 613,
+          "name": "machine learning"
+        },
+        {
+          "id": 693,
+          "name": "qa automation"
+        }
+      ],
+      "salary": {
+        "id": 566318,
+        "vacancy_id": 1378670,
+        "currency": "EUR",
+        "salary_period": "year",
+        "min": 35000,
+        "max": 65000,
+        "salary_in_usd": 4679,
+        "created_at": "2026-11-06T23:08:10.000000Z",
+        "updated_at": "2026-11-06T23:08:10.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        },
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 17,
+          "code": "spain",
+          "name": "Испания",
+          "name_en": "Spain"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 97,
+          "code": "barcelona",
+          "name": "Барселона",
+          "name_en": "Barcelona",
+          "country_code": "spain",
+          "pivot": {
+            "vacancy_id": 1378670,
+            "city_id": 97
+          }
+        }
+      ]
+    },
+    {
+      "id": 1299723,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "postgresql",
+        "fastapi"
+      ],
+      "slug": "1299723-python-razrabotcik-backend",
+      "title": "Python разработчик (Backend)",
+      "original_title": "Python разработчик / Python Developer",
+      "vacancy_score": 7,
+      "company_title": "Hireway",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "russia",
+      "remote_restrictions": [
+        "cis"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": null,
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": null,
+      "vacancy_language": "ru",
+      "tldr": "Python разработчик (Backend): Разработка и поддержка backend-сервисов и REST API на Python с акцентом на PostgreSQL, тестируемый код и командную работу. Фокус на исправлении багов, покрытии кода тестами, постепенном погружении в архитектуру сервисов и изучении Docker и CI/CD.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": null,
+      "macroregion_id": 5,
+      "premium": false,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "telegram",
+      "source_secondary": "telegram",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1299723.jpg?v=1793959884",
+      "created_at": "2026-10-22T05:49:41.000000Z",
+      "updated_at": "2026-11-06T10:30:57.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [],
+      "location_reason": null,
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "pet проекты или опыт коммерческой разработки на python",
+        "sqlalchemy",
+        "asyncio",
+        "redis",
+        "kafka",
+        "rabbitmq",
+        "swagger",
+        "openapi",
+        "docker compose",
+        "kubernetes"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "armenia",
+        "azerbaijan",
+        "belarus",
+        "kazakhstan",
+        "kyrgyzstan",
+        "moldova",
+        "russia",
+        "tajikistan",
+        "turkmenistan",
+        "uzbekistan"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-04T14:30:57+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 55,
+          "name": "backend"
+        },
+        {
+          "id": 70,
+          "name": "git"
+        },
+        {
+          "id": 111,
+          "name": "fastapi"
+        },
+        {
+          "id": 112,
+          "name": "docker"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 538,
+          "name": "ci cd"
+        },
+        {
+          "id": 1018,
+          "name": "unit testing"
+        },
+        {
+          "id": 21590,
+          "name": "postgresql"
+        }
+      ],
+      "salary": {
+        "id": 530534,
+        "vacancy_id": 1299723,
+        "currency": "RUB",
+        "salary_period": "month",
+        "min": 240000,
+        "max": 260000,
+        "salary_in_usd": 3063,
+        "created_at": "2026-10-22T05:49:41.000000Z",
+        "updated_at": "2026-11-06T10:11:19.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 1,
+          "code": "russia",
+          "name": "Россия",
+          "name_en": "Russia"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1374369,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "fastapi",
+        "kafka"
+      ],
+      "slug": "1374369-juniormiddle-python-developer-ai",
+      "title": "Junior/Middle Python Developer (AI)",
+      "original_title": "Junior/Middle Python Developer",
+      "vacancy_score": 7,
+      "company_title": "Axevil Capital",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "global",
+      "remote_restrictions": [],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": null,
+      "language_requirements": [
+        {
+          "level": "c2",
+          "language": "russian"
+        }
+      ],
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "ru",
+      "tldr": "Junior/Middle Python Developer (AI): Разработка REST API для мобильного приложения и админ-панели, микросервисов и масштабируемой архитектуры с акцентом на FastAPI, PostgreSQL, Kafka и AI-first подход. Фокус на интеграции с внешними сервисами, автоматизации разработки с помощью AI-инструментов, проектировании event-driven микросервисов и обеспечении качества кода.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": null,
+      "macroregion_id": null,
+      "premium": false,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "telegram",
+      "source_secondary": "telegram",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1374369.jpg?v=1793960757",
+      "created_at": "2026-11-06T10:25:45.000000Z",
+      "updated_at": "2026-11-06T10:25:54.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "anywhere"
+      ],
+      "location_reason": null,
+      "timezone_overlap": "МСК",
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "anywhere",
+      "eligible_countries": [],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-04T14:25:54+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 53,
+          "name": "redis"
+        },
+        {
+          "id": 68,
+          "name": "kafka"
+        },
+        {
+          "id": 111,
+          "name": "fastapi"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 480,
+          "name": "microservices"
+        },
+        {
+          "id": 693,
+          "name": "qa automation"
+        },
+        {
+          "id": 21590,
+          "name": "postgresql"
+        }
+      ],
+      "salary": {
+        "id": 564293,
+        "vacancy_id": 1374369,
+        "currency": "USD",
+        "salary_period": "month",
+        "min": 1500,
+        "max": 2000,
+        "salary_in_usd": 1750,
+        "created_at": "2026-11-06T10:25:46.000000Z",
+        "updated_at": "2026-11-06T10:25:46.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        },
+        {
+          "id": 3,
+          "name": "middle"
+        }
+      ],
+      "regions": [],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1372050,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "react",
+        "typescript"
+      ],
+      "slug": "1372050-junior-fullstack-python-react",
+      "title": "Junior Fullstack Developer (Python/React)",
+      "original_title": "Junior Fullstack Developer (Python/React)",
+      "vacancy_score": 7,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "sweden"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Junior Fullstack Developer (Python/React) (AI tax preparation): Building tax-professional workflows, tax-software integrations, and scalable document, data, and tax-return pipelines with an accent on fullstack product development, probabilistic AI systems, and accuracy. Focus on designing backend logic and user experiences, integrating LLMs for higher transparency and accuracy, and maintaining fast, typed code at scale.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 21605,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/filedhq",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1372050.jpg?v=1793918290",
+      "created_at": "2026-11-05T22:38:04.000000Z",
+      "updated_at": "2026-11-05T22:38:07.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "sweden"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": "US hours",
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "sweden"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 119,
+          "name": "typescript"
+        },
+        {
+          "id": 202,
+          "name": "azure"
+        },
+        {
+          "id": 364,
+          "name": "gcp"
+        },
+        {
+          "id": 398,
+          "name": "llm"
+        },
+        {
+          "id": 2014,
+          "name": "react"
+        },
+        {
+          "id": 25689,
+          "name": "tax technology"
+        }
+      ],
+      "salary": {
+        "id": 563197,
+        "vacancy_id": 1372050,
+        "currency": "SEK",
+        "salary_period": "month",
+        "min": 50000,
+        "max": 65000,
+        "salary_in_usd": 5905,
+        "created_at": "2026-11-05T22:38:07.000000Z",
+        "updated_at": "2026-11-05T22:38:07.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 4,
+          "code": "fullstack_dev",
+          "name": "Фулстек",
+          "name_en": "Fullstack"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 33,
+          "code": "sweden",
+          "name": "Швеция",
+          "name_en": "Sweden"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 308,
+          "code": "stockholm",
+          "name": "Стокгольм",
+          "name_en": "Stockholm",
+          "country_code": "sweden",
+          "pivot": {
+            "vacancy_id": 1372050,
+            "city_id": 308
+          }
+        }
+      ]
+    },
+    {
+      "id": 1369378,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+      "slug": "1369378-systematic-strategies-analyst-python",
+      "title": "Systematic Strategies Oversight Analyst (Python)",
+      "original_title": "Systematic Strategies Oversight Analyst",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "onsite"
+      ],
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "corporation",
+      "vacancy_language": "en",
+      "tldr": "Systematic Strategies Oversight Analyst (Python): Monitoring systematic trading strategies and investigating operational and risk anomalies with an accent on quantitative analysis, automated alerts, data profiling, and trading-platform oversight. Focus on building analytical tools and reporting systems, tracing root causes across large codebases, and coordinating risk remediation with portfolio managers, traders, modelers, and engineers.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 20400,
+      "macroregion_id": 1,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/two-sigma-investments",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1369378.jpg?v=1793891229",
+      "created_at": "2026-11-05T15:07:02.000000Z",
+      "updated_at": "2026-11-05T15:07:07.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_states"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_states"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 49,
+          "name": "data analysis"
+        },
+        {
+          "id": 116,
+          "name": "pandas"
+        },
+        {
+          "id": 183,
+          "name": "linux"
+        },
+        {
+          "id": 375,
+          "name": "risk management"
+        },
+        {
+          "id": 426,
+          "name": "automation"
+        },
+        {
+          "id": 712,
+          "name": "statistical analysis"
+        },
+        {
+          "id": 919,
+          "name": "numpy"
+        },
+        {
+          "id": 13780,
+          "name": "regression"
+        },
+        {
+          "id": 18225,
+          "name": "correlation"
+        }
+      ],
+      "salary": {
+        "id": 561792,
+        "vacancy_id": 1369378,
+        "currency": "USD",
+        "salary_period": "year",
+        "min": 150000,
+        "max": 200000,
+        "salary_in_usd": 14584,
+        "created_at": "2026-11-05T15:07:07.000000Z",
+        "updated_at": "2026-11-05T15:07:07.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 64,
+          "code": "data_science",
+          "name": "Data Scientist",
+          "name_en": "Data Scientist"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 470,
+          "code": "new_york",
+          "name": "Нью-Йорк",
+          "name_en": "New York",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1369378,
+            "city_id": 470
+          }
+        }
+      ]
+    },
+    {
+      "id": 1368971,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "react",
+        "python",
+        "java"
+      ],
+      "slug": "1368971-junior-ai-fullstack-engineer",
+      "title": "Junior AI Fullstack Engineer (Python/Java + React)",
+      "original_title": "Junior AI Fullstack Engineer (Python/Java + React)",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "global",
+      "remote_restrictions": [],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "c1",
+      "language_requirements": null,
+      "employee_type": [
+        "b2b_contract"
+      ],
+      "company_type": "outsourcing_company",
+      "vacancy_language": "en",
+      "tldr": "Junior AI Fullstack Engineer (Python/Java + React) (AI/cloud platform): Building reusable React widgets and cloud-native Python or Java services for a GCP-based scoring and recommendations platform with an accent on fullstack development, API integration, and backend replatforming. Focus on designing embeddable interfaces, integrating frontend and backend services, and developing clean, tested code under senior engineering mentorship.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 4675,
+      "macroregion_id": null,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/cloudfide/people/",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1368971.jpg?v=1793888725",
+      "created_at": "2026-11-05T14:25:18.000000Z",
+      "updated_at": "2026-11-05T14:25:23.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "anywhere"
+      ],
+      "location_reason": null,
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "agentic ai",
+        "ai agents",
+        "llm based solutions",
+        "design systems",
+        "component libraries",
+        "typescript",
+        "docker",
+        "git workflows",
+        "ci cd pipelines",
+        "jest",
+        "vitest",
+        "pytest",
+        "junit"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "anywhere",
+      "eligible_countries": [],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 24,
+          "name": "java"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 151,
+          "name": "fullstack"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 364,
+          "name": "gcp"
+        },
+        {
+          "id": 2014,
+          "name": "react"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 4,
+          "code": "fullstack_dev",
+          "name": "Фулстек",
+          "name_en": "Fullstack"
+        },
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1368948,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "selenium",
+        "api testing"
+      ],
+      "slug": "1368948-test-automation-python-networking",
+      "title": "Junior/Middle Test Automation Engineer (Python + Networking)",
+      "original_title": "Junior/Middle Test Automation Engineer (Python + Networking)",
+      "vacancy_score": 7,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "ukraine"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "outsourcing_company",
+      "vacancy_language": "en",
+      "tldr": "Junior/Middle Test Automation Engineer (Python + Networking) (Python/networking): Developing and maintaining automated testing solutions for a network traffic security analytics product with an accent on performance testing, network validation, and test environment configuration. Focus on analyzing test results, troubleshooting root causes, and validating scalable, reliable behavior across networking and infrastructure components.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 3749,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": "https://www.linkedin.com/company/softserve/life/5fdf2d7d-e926-47b2-954f-6ce1090a2256/",
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1368948.jpg?v=1793888490",
+      "created_at": "2026-11-05T14:21:21.000000Z",
+      "updated_at": "2026-11-05T14:21:25.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "ukraine"
+      ],
+      "location_reason": "unspecified",
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [
+        "docker",
+        "elastic",
+        "kibana",
+        "prometheus",
+        "grafana",
+        "network administration"
+      ],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "ukraine"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 70,
+          "name": "git"
+        },
+        {
+          "id": 183,
+          "name": "linux"
+        },
+        {
+          "id": 231,
+          "name": "api testing"
+        },
+        {
+          "id": 256,
+          "name": "jenkins"
+        },
+        {
+          "id": 557,
+          "name": "tcp ip"
+        },
+        {
+          "id": 572,
+          "name": "selenium"
+        },
+        {
+          "id": 592,
+          "name": "bash"
+        },
+        {
+          "id": 1952,
+          "name": "wireshark"
+        },
+        {
+          "id": 2967,
+          "name": "tcpdump"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 81,
+          "code": "qa_automation",
+          "name": "QA Automation",
+          "name_en": "QA Automation"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        },
+        {
+          "id": 3,
+          "name": "middle"
+        }
+      ],
+      "regions": [
+        {
+          "id": 14,
+          "code": "ukraine",
+          "name": "Украина",
+          "name_en": "Ukraine"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1348185,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "sql"
+      ],
+      "slug": "1348185-bioinformatics-python-sql",
+      "title": "Биоинформатик (Python/SQL)",
+      "original_title": "Биоинформатик",
+      "vacancy_score": 2,
+      "company_title": "Мираторг",
+      "work_format": [
+        "onsite"
+      ],
+      "remote_type": "russia",
+      "remote_restrictions": [
+        "russia"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": null,
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "corporation",
+      "vacancy_language": "ru",
+      "tldr": "Биоинформатик (Python/SQL): Анализ и контроль качества данных микросателлитного генотипирования с акцентом на обработку таблиц в Excel, SQL-выгрузки и автоматизацию рутинных операций на Python. Focus on выявлении аномалий и несоответствий, мониторинге аналитических задач в Apache Airflow и подготовке отчетов для селекционеров.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 6246,
+      "macroregion_id": 5,
+      "premium": false,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "ru",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1348185.jpg?v=1793615754",
+      "created_at": "2026-11-02T10:35:49.000000Z",
+      "updated_at": "2026-11-02T11:02:02.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "russia"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "nice_to_have_tags": [],
+      "crypto_payment": null,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "russia"
+      ],
+      "ineligible_countries": [],
+      "seen": false,
+      "is_favorite": false,
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 49,
+          "name": "data analysis"
+        },
+        {
+          "id": 105,
+          "name": "excel"
+        },
+        {
+          "id": 769,
+          "name": "airflow"
+        },
+        {
+          "id": 5412,
+          "name": "data quality"
+        },
+        {
+          "id": 140877,
+          "name": "genotyping"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 54,
+          "code": "science_research",
+          "name": "Наука и R&D",
+          "name_en": "Science & Research"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 1,
+          "code": "russia",
+          "name": "Россия",
+          "name_en": "Russia"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 46,
+          "code": "moscow",
+          "name": "Москва",
+          "name_en": "Moscow",
+          "country_code": "russia",
+          "pivot": {
+            "vacancy_id": 1348185,
+            "city_id": 46
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://api.hirify.me/api/vacancies?query=python&page=1",
+  "from": 1,
+  "last_page": 6,
+  "last_page_url": "https://api.hirify.me/api/vacancies?query=python&page=6",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=2",
+      "label": "2",
+      "page": 2,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=3",
+      "label": "3",
+      "page": 3,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=4",
+      "label": "4",
+      "page": 4,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=5",
+      "label": "5",
+      "page": 5,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=6",
+      "label": "6",
+      "page": 6,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?query=python&page=2",
+      "label": "Next &raquo;",
+      "page": 2,
+      "active": false
+    }
+  ],
+  "next_page_url": "https://api.hirify.me/api/vacancies?query=python&page=2",
+  "path": "https://api.hirify.me/api/vacancies",
+  "per_page": 15,
+  "prev_page_url": null,
+  "to": 15,
+  "total": 80
+}

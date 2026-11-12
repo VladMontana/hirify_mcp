@@ -1,0 +1,2863 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1407084,
+      "title": "Training Program Manager (Aerospace)",
+      "slug": "1407084-training-program-manager-aerospace",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "france"
+      ],
+      "allowed_locations": [
+        "france"
+      ],
+      "excluded_locations": [],
+      "office_locations": [
+        "france"
+      ],
+      "updated_at": "2026-11-12T17:08:51.000000Z",
+      "created_at": "2026-11-12T17:08:45.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "france"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712312,
+          "vacancy_id": 1407084,
+          "type": "url",
+          "url_type": null,
+          "value": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Marseille-Area/Training-Program-Manager--M-F-_JR10457917-1",
+          "short_code": "3aVQg",
+          "created_at": "2026-11-12T17:08:51.000000Z",
+          "updated_at": "2026-11-12T17:08:51.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 108,
+          "name": "project management"
+        },
+        {
+          "id": 296,
+          "name": "budget management"
+        },
+        {
+          "id": 527,
+          "name": "planning"
+        },
+        {
+          "id": 1361,
+          "name": "customer management"
+        },
+        {
+          "id": 21333,
+          "name": "aerospace"
+        },
+        {
+          "id": 24443,
+          "name": "export control"
+        },
+        {
+          "id": 61585,
+          "name": "training program management"
+        },
+        {
+          "id": 424758,
+          "name": "super puma"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 11,
+          "code": "project_management",
+          "name": "Project менеджмент",
+          "name_en": "Project Management"
+        },
+        {
+          "id": 121,
+          "code": "hr_learning_development",
+          "name": "Обучение и развитие",
+          "name_en": "Learning & Development"
+        }
+      ],
+      "grades": [],
+      "regions": [
+        {
+          "id": 3,
+          "code": "france",
+          "name": "Франция",
+          "name_en": "France"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 1071,
+          "code": "marseille",
+          "name": "Марсель",
+          "name_en": "Marseille",
+          "country_code": "france",
+          "pivot": {
+            "vacancy_id": 1407084,
+            "city_id": 1071
+          }
+        },
+        {
+          "id": 16998,
+          "code": "marignane",
+          "name": "Мариньян",
+          "name_en": "Marignane",
+          "country_code": "france",
+          "pivot": {
+            "vacancy_id": 1407084,
+            "city_id": 16998
+          }
+        },
+        {
+          "id": 2902,
+          "code": "aix_en_provence",
+          "name": "Экс-ан-Прованс",
+          "name_en": "Aix-en-Provence",
+          "country_code": "france",
+          "pivot": {
+            "vacancy_id": 1407084,
+            "city_id": 2902
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407083,
+      "title": "Spécialiste des Systèmes de Freinage (Aérospatiale)",
+      "slug": "1407083-aerospace-braking-systems-specialist",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "hybrid"
+      ],
+      "work_type": "fulltime",
+      "remote_type": null,
+      "remote_restrictions": [
+        "canada"
+      ],
+      "allowed_locations": [
+        "canada"
+      ],
+      "excluded_locations": [],
+      "office_locations": [
+        "canada",
+        "united_kingdom",
+        "france"
+      ],
+      "updated_at": "2026-11-12T17:08:45.000000Z",
+      "created_at": "2026-11-12T17:08:38.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "canada"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712311,
+          "vacancy_id": 1407083,
+          "type": "url",
+          "url_type": null,
+          "value": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Montreal-Area/Spcialiste-des-Systmes-de-Freinage---Braking-System-Specialist_JR10445255",
+          "short_code": "5YfFq",
+          "created_at": "2026-11-12T17:08:45.000000Z",
+          "updated_at": "2026-11-12T17:08:45.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 26,
+          "name": "testing"
+        },
+        {
+          "id": 80,
+          "name": "requirements management"
+        },
+        {
+          "id": 6930,
+          "name": "systems engineering"
+        },
+        {
+          "id": 9604,
+          "name": "supplier management"
+        },
+        {
+          "id": 17182,
+          "name": "root cause analysis"
+        },
+        {
+          "id": 21333,
+          "name": "aerospace"
+        },
+        {
+          "id": 23985,
+          "name": "landing gear"
+        },
+        {
+          "id": 76089,
+          "name": "aircraft certification"
+        },
+        {
+          "id": 107820,
+          "name": "braking systems"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 51,
+          "code": "engineering",
+          "name": "Инженерия (hardware, энергетика, производство)",
+          "name_en": "Engineering (hardware, energy, manufacturing)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 43,
+          "code": "canada",
+          "name": "Канада",
+          "name_en": "Canada"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 391,
+          "code": "montreal",
+          "name": "Монреаль",
+          "name_en": "Montreal",
+          "country_code": "canada",
+          "pivot": {
+            "vacancy_id": 1407083,
+            "city_id": 391
+          }
+        },
+        {
+          "id": 4828,
+          "code": "mirabel",
+          "name": "Мирабель",
+          "name_en": "Mirabel",
+          "country_code": "canada",
+          "pivot": {
+            "vacancy_id": 1407083,
+            "city_id": 4828
+          }
+        },
+        {
+          "id": 2888,
+          "code": "laval",
+          "name": "Лаваль",
+          "name_en": "Laval",
+          "country_code": "canada",
+          "pivot": {
+            "vacancy_id": 1407083,
+            "city_id": 2888
+          }
+        },
+        {
+          "id": 1638,
+          "code": "toulouse",
+          "name": "Тулуза",
+          "name_en": "Toulouse",
+          "country_code": "france",
+          "pivot": {
+            "vacancy_id": 1407083,
+            "city_id": 1638
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407082,
+      "title": "Senior IT Operations Manager",
+      "slug": "1407082-senior-it-operations-manager",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:08:38.000000Z",
+      "created_at": "2026-11-12T17:08:33.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": false,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712310,
+          "vacancy_id": 1407082,
+          "type": "url",
+          "url_type": null,
+          "value": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Kinston-NC/Senior-IT-Operations-Manager_JR10455391",
+          "short_code": "4IdWD",
+          "created_at": "2026-11-12T17:08:38.000000Z",
+          "updated_at": "2026-11-12T17:08:38.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 907,
+          "name": "asset management"
+        },
+        {
+          "id": 1023,
+          "name": "network security"
+        },
+        {
+          "id": 1904,
+          "name": "itil"
+        },
+        {
+          "id": 2196,
+          "name": "servicenow"
+        },
+        {
+          "id": 2607,
+          "name": "incident management"
+        },
+        {
+          "id": 2928,
+          "name": "change management"
+        },
+        {
+          "id": 8906,
+          "name": "it operations"
+        },
+        {
+          "id": 17182,
+          "name": "root cause analysis"
+        },
+        {
+          "id": 27670,
+          "name": "network support"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 20,
+          "code": "system_engineering",
+          "name": "Системная инженерия и администрирование",
+          "name_en": "Systems Engineering & Administration"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 7956,
+          "code": "kinston",
+          "name": "Кинстон",
+          "name_en": "Kinston",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407082,
+            "city_id": 7956
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407081,
+      "title": "B2B Subscriptions, Marketing Intern",
+      "slug": "1407081-b2b-subscriptions-marketing-intern",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "hybrid"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:08:37.000000Z",
+      "created_at": "2026-11-12T17:08:32.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712309,
+          "vacancy_id": 1407081,
+          "type": "url",
+          "url_type": null,
+          "value": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005",
+          "short_code": "SBtr",
+          "created_at": "2026-11-12T17:08:37.000000Z",
+          "updated_at": "2026-11-12T17:08:37.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 902,
+          "name": "marketing analytics"
+        },
+        {
+          "id": 1457,
+          "name": "partnerships"
+        },
+        {
+          "id": 1694,
+          "name": "outreach"
+        },
+        {
+          "id": 2244,
+          "name": "b2b marketing"
+        },
+        {
+          "id": 24037,
+          "name": "subscription marketing"
+        },
+        {
+          "id": 38500,
+          "name": "engagement marketing"
+        },
+        {
+          "id": 71863,
+          "name": "acquisition strategy"
+        }
+      ],
+      "salary": {
+        "id": 578555,
+        "vacancy_id": 1407081,
+        "currency": "USD",
+        "salary_period": "hour",
+        "min": 20,
+        "max": 20,
+        "salary_in_usd": 3200,
+        "created_at": "2026-11-12T17:08:37.000000Z",
+        "updated_at": "2026-11-12T17:08:37.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 13,
+          "code": "marketing",
+          "name": "Маркетинг",
+          "name_en": "Marketing"
+        }
+      ],
+      "grades": [
+        {
+          "id": 1,
+          "name": "trainee"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 470,
+          "code": "new_york",
+          "name": "Нью-Йорк",
+          "name_en": "New York",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407081,
+            "city_id": 470
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407080,
+      "title": "Integrator Flight Physics Capabilities (PMT)",
+      "slug": "1407080-flight-physics-capabilities-integrator",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "hybrid"
+      ],
+      "work_type": "fulltime",
+      "remote_type": null,
+      "remote_restrictions": [
+        "canada"
+      ],
+      "allowed_locations": [
+        "canada"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:08:33.000000Z",
+      "created_at": "2026-11-12T17:08:20.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "canada"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712308,
+          "vacancy_id": 1407080,
+          "type": "url",
+          "url_type": null,
+          "value": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Montreal-Area/Intgrateur-Capacits-de-Physique-de-Vol--PMO----Integrator-Flight-Physics-Capabilities--PMT-_JR10447517",
+          "short_code": "1IBPg",
+          "created_at": "2026-11-12T17:08:33.000000Z",
+          "updated_at": "2026-11-12T17:08:33.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 679,
+          "name": "leadership"
+        },
+        {
+          "id": 682,
+          "name": "project coordination"
+        },
+        {
+          "id": 11127,
+          "name": "process development"
+        },
+        {
+          "id": 21333,
+          "name": "aerospace"
+        },
+        {
+          "id": 26877,
+          "name": "scientific computing"
+        },
+        {
+          "id": 60584,
+          "name": "flight physics"
+        },
+        {
+          "id": 61607,
+          "name": "code development"
+        },
+        {
+          "id": 104634,
+          "name": "engineering tools"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 51,
+          "code": "engineering",
+          "name": "Инженерия (hardware, энергетика, производство)",
+          "name_en": "Engineering (hardware, energy, manufacturing)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 43,
+          "code": "canada",
+          "name": "Канада",
+          "name_en": "Canada"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 391,
+          "code": "montreal",
+          "name": "Монреаль",
+          "name_en": "Montreal",
+          "country_code": "canada",
+          "pivot": {
+            "vacancy_id": 1407080,
+            "city_id": 391
+          }
+        },
+        {
+          "id": 4828,
+          "code": "mirabel",
+          "name": "Мирабель",
+          "name_en": "Mirabel",
+          "country_code": "canada",
+          "pivot": {
+            "vacancy_id": 1407080,
+            "city_id": 4828
+          }
+        },
+        {
+          "id": 2888,
+          "code": "laval",
+          "name": "Лаваль",
+          "name_en": "Laval",
+          "country_code": "canada",
+          "pivot": {
+            "vacancy_id": 1407080,
+            "city_id": 2888
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407079,
+      "title": "Director of Finance & Accounting (Healthcare)",
+      "slug": "1407079-director-finance-accounting-healthcare",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:06:39.000000Z",
+      "created_at": "2026-11-12T17:06:34.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": false,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712307,
+          "vacancy_id": 1407079,
+          "type": "url",
+          "url_type": null,
+          "value": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5476836008",
+          "short_code": "MzBo",
+          "created_at": "2026-11-12T17:06:39.000000Z",
+          "updated_at": "2026-11-12T17:06:39.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 466,
+          "name": "treasury"
+        },
+        {
+          "id": 469,
+          "name": "ifrs"
+        },
+        {
+          "id": 895,
+          "name": "netsuite"
+        },
+        {
+          "id": 2721,
+          "name": "gaap"
+        },
+        {
+          "id": 6209,
+          "name": "tax compliance"
+        },
+        {
+          "id": 19127,
+          "name": "internal controls"
+        },
+        {
+          "id": 21323,
+          "name": "asc 606"
+        },
+        {
+          "id": 30184,
+          "name": "coso framework"
+        },
+        {
+          "id": 40858,
+          "name": "financial consolidation"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 116,
+          "code": "accounting_tax_audit",
+          "name": "Бухгалтерия, налоги и аудит",
+          "name_en": "Accounting, Tax & Audit"
+        },
+        {
+          "id": 118,
+          "code": "finance_management",
+          "name": "Управление финансами",
+          "name_en": "Finance Management"
+        }
+      ],
+      "grades": [
+        {
+          "id": 8,
+          "name": "director"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 458,
+          "code": "pittsburgh",
+          "name": "Питтсбург",
+          "name_en": "Pittsburgh",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407079,
+            "city_id": 458
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407078,
+      "title": "Executive Assistant",
+      "slug": "1407078-executive-assistant-healthcare",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "remote"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:48.000000Z",
+      "created_at": "2026-11-12T17:04:43.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": false,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712305,
+          "vacancy_id": 1407078,
+          "type": "url",
+          "url_type": null,
+          "value": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Executive-Assistant_1675877",
+          "short_code": "4g4J1",
+          "created_at": "2026-11-12T17:04:48.000000Z",
+          "updated_at": "2026-11-12T17:04:48.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 214,
+          "name": "reporting"
+        },
+        {
+          "id": 1179,
+          "name": "executive support"
+        },
+        {
+          "id": 3022,
+          "name": "administration"
+        },
+        {
+          "id": 9680,
+          "name": "event coordination"
+        },
+        {
+          "id": 10076,
+          "name": "confidentiality"
+        }
+      ],
+      "salary": {
+        "id": 578554,
+        "vacancy_id": 1407078,
+        "currency": "USD",
+        "salary_period": "hour",
+        "min": 27,
+        "max": 48,
+        "salary_in_usd": 6000,
+        "created_at": "2026-11-12T17:04:48.000000Z",
+        "updated_at": "2026-11-12T17:04:48.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 57,
+          "code": "administration",
+          "name": "Администрирование",
+          "name_en": "Administration"
+        }
+      ],
+      "grades": [
+        {
+          "id": 3,
+          "name": "middle"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 1178,
+          "code": "tampa",
+          "name": "Тампа",
+          "name_en": "Tampa",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407078,
+            "city_id": 1178
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407077,
+      "title": "R2R Accountant (Fintech)",
+      "slug": "1407077-r2r-accountant-fintech",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "bulgaria"
+      ],
+      "allowed_locations": [
+        "bulgaria"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:44.000000Z",
+      "created_at": "2026-11-12T17:04:38.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "bulgaria"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712304,
+          "vacancy_id": 1407077,
+          "type": "url",
+          "url_type": null,
+          "value": "https://careers.mypos.com/jobs/8712688-r2r-accountant",
+          "short_code": "3PtTK",
+          "created_at": "2026-11-12T17:04:44.000000Z",
+          "updated_at": "2026-11-12T17:04:44.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 178,
+          "name": "erp"
+        },
+        {
+          "id": 377,
+          "name": "accounting"
+        },
+        {
+          "id": 469,
+          "name": "ifrs"
+        },
+        {
+          "id": 895,
+          "name": "netsuite"
+        },
+        {
+          "id": 1274,
+          "name": "financial reporting"
+        },
+        {
+          "id": 2721,
+          "name": "gaap"
+        },
+        {
+          "id": 3773,
+          "name": "bookkeeping"
+        },
+        {
+          "id": 6762,
+          "name": "auditing"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 116,
+          "code": "accounting_tax_audit",
+          "name": "Бухгалтерия, налоги и аудит",
+          "name_en": "Accounting, Tax & Audit"
+        }
+      ],
+      "grades": [],
+      "regions": [
+        {
+          "id": 53,
+          "code": "bulgaria",
+          "name": "Болгария",
+          "name_en": "Bulgaria"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 618,
+          "code": "varna",
+          "name": "Варна",
+          "name_en": "Varna",
+          "country_code": "bulgaria",
+          "pivot": {
+            "vacancy_id": 1407077,
+            "city_id": 618
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407075,
+      "title": "ICT Helpdesk Engineer",
+      "slug": "1407075-ict-helpdesk-engineer",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "italy"
+      ],
+      "allowed_locations": [
+        "italy"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:42.000000Z",
+      "created_at": "2026-11-12T17:04:35.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "italy"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712303,
+          "vacancy_id": 1407075,
+          "type": "url",
+          "url_type": null,
+          "value": "https://gbionics.ai/careers/112026-51-ict-helpdsek",
+          "short_code": "3Hx2a",
+          "created_at": "2026-11-12T17:04:42.000000Z",
+          "updated_at": "2026-11-12T17:04:42.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 58,
+          "name": "scripting"
+        },
+        {
+          "id": 183,
+          "name": "linux"
+        },
+        {
+          "id": 596,
+          "name": "windows"
+        },
+        {
+          "id": 813,
+          "name": "ubuntu"
+        },
+        {
+          "id": 2165,
+          "name": "microsoft 365"
+        },
+        {
+          "id": 5162,
+          "name": "it support"
+        },
+        {
+          "id": 9822,
+          "name": "ticketing systems"
+        },
+        {
+          "id": 10639,
+          "name": "red hat"
+        },
+        {
+          "id": 14641,
+          "name": "intune"
+        },
+        {
+          "id": 26189,
+          "name": "it asset management"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 107,
+          "code": "tech_support",
+          "name": "Инженер технической поддержки",
+          "name_en": "Technical Support Engineer"
+        }
+      ],
+      "grades": [
+        {
+          "id": 3,
+          "name": "middle"
+        }
+      ],
+      "regions": [
+        {
+          "id": 42,
+          "code": "italy",
+          "name": "Италия",
+          "name_en": "Italy"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 2570,
+          "code": "genoa",
+          "name": "Генуя",
+          "name_en": "Genoa",
+          "country_code": "italy",
+          "pivot": {
+            "vacancy_id": 1407075,
+            "city_id": 2570
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407076,
+      "title": "Manager, Training (Pharmacy Services)",
+      "slug": "1407076-training-manager-pharmacy-services",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "remote"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:41.000000Z",
+      "created_at": "2026-11-12T17:04:38.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712302,
+          "vacancy_id": 1407076,
+          "type": "url",
+          "url_type": null,
+          "value": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Manager--Training_1675564",
+          "short_code": "1SeE7",
+          "created_at": "2026-11-12T17:04:41.000000Z",
+          "updated_at": "2026-11-12T17:04:41.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 5021,
+          "name": "insurance"
+        },
+        {
+          "id": 12555,
+          "name": "curriculum development"
+        },
+        {
+          "id": 13897,
+          "name": "adult learning"
+        },
+        {
+          "id": 20673,
+          "name": "online training"
+        },
+        {
+          "id": 22845,
+          "name": "roi analysis"
+        },
+        {
+          "id": 29105,
+          "name": "training management"
+        },
+        {
+          "id": 73482,
+          "name": "managed care"
+        },
+        {
+          "id": 78594,
+          "name": "training evaluation"
+        }
+      ],
+      "salary": {
+        "id": 578553,
+        "vacancy_id": 1407076,
+        "currency": "USD",
+        "salary_period": "year",
+        "min": 87700,
+        "max": 157800,
+        "salary_in_usd": 10229,
+        "created_at": "2026-11-12T17:04:41.000000Z",
+        "updated_at": "2026-11-12T17:04:41.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 121,
+          "code": "hr_learning_development",
+          "name": "Обучение и развитие",
+          "name_en": "Learning & Development"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 664080,
+      "title": "Freelance Motion Designer (Mobile Games)",
+      "slug": "664080-motion-designer-gamedev",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "remote"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "global",
+      "remote_restrictions": [],
+      "allowed_locations": [],
+      "excluded_locations": [],
+      "office_locations": [
+        "sweden"
+      ],
+      "updated_at": "2026-11-12T17:04:38.000000Z",
+      "created_at": "2026-06-19T10:02:06.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "ru-global",
+      "employee_type": [
+        "b2b_contract"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "anywhere",
+      "eligible_countries": [],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1711458,
+          "vacancy_id": 664080,
+          "type": "url",
+          "url_type": null,
+          "value": "https://jobs.g5.com/ru/remote/marketing_pr/538",
+          "short_code": "5Xc7N",
+          "created_at": "2026-11-12T16:01:15.000000Z",
+          "updated_at": "2026-11-12T16:01:15.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 30,
+          "name": "photoshop"
+        },
+        {
+          "id": 149,
+          "name": "gamedev"
+        },
+        {
+          "id": 225,
+          "name": "motion design"
+        },
+        {
+          "id": 307,
+          "name": "video editing"
+        },
+        {
+          "id": 339,
+          "name": "vfx"
+        },
+        {
+          "id": 476,
+          "name": "after effects"
+        },
+        {
+          "id": 724,
+          "name": "2d animation"
+        },
+        {
+          "id": 1392,
+          "name": "video production"
+        },
+        {
+          "id": 1724,
+          "name": "3ds max"
+        },
+        {
+          "id": 1976,
+          "name": "3d animation"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 41,
+          "code": "motion_design",
+          "name": "Motion дизайн",
+          "name_en": "Motion Design"
+        }
+      ],
+      "grades": [
+        {
+          "id": 3,
+          "name": "middle"
+        }
+      ],
+      "regions": [
+        {
+          "id": 33,
+          "code": "sweden",
+          "name": "Швеция",
+          "name_en": "Sweden"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1407074,
+      "title": "Statistical Programmer (AI)",
+      "slug": "1407074-statistical-programmer-ai-sas",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "greece",
+        "spain"
+      ],
+      "allowed_locations": [
+        "greece",
+        "spain"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:36.000000Z",
+      "created_at": "2026-11-12T17:04:25.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "greece",
+        "spain"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712301,
+          "vacancy_id": 1407074,
+          "type": "url",
+          "url_type": null,
+          "value": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Statistical-Programmer--Consultative-COA-Scoring_R1579648",
+          "short_code": "giG7",
+          "created_at": "2026-11-12T17:04:36.000000Z",
+          "updated_at": "2026-11-12T17:04:36.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 247,
+          "name": "r"
+        },
+        {
+          "id": 270,
+          "name": "api"
+        },
+        {
+          "id": 3468,
+          "name": "data validation"
+        },
+        {
+          "id": 6700,
+          "name": "sas"
+        },
+        {
+          "id": 16208,
+          "name": "clinical research"
+        },
+        {
+          "id": 39748,
+          "name": "psychometrics"
+        },
+        {
+          "id": 40120,
+          "name": "statistical programming"
+        }
+      ],
+      "salary": {
+        "id": 578552,
+        "vacancy_id": 1407074,
+        "currency": "EUR",
+        "salary_period": "year",
+        "min": 27400,
+        "max": 41000,
+        "salary_in_usd": 3167,
+        "created_at": "2026-11-12T17:04:36.000000Z",
+        "updated_at": "2026-11-12T17:04:36.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 64,
+          "code": "data_science",
+          "name": "Data Scientist",
+          "name_en": "Data Scientist"
+        }
+      ],
+      "grades": [],
+      "regions": [
+        {
+          "id": 17,
+          "code": "spain",
+          "name": "Испания",
+          "name_en": "Spain"
+        },
+        {
+          "id": 59,
+          "code": "greece",
+          "name": "Греция",
+          "name_en": "Greece"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 481,
+          "code": "athens",
+          "name": "Афины",
+          "name_en": "Athens",
+          "country_code": "greece",
+          "pivot": {
+            "vacancy_id": 1407074,
+            "city_id": 481
+          }
+        },
+        {
+          "id": 97,
+          "code": "barcelona",
+          "name": "Барселона",
+          "name_en": "Barcelona",
+          "country_code": "spain",
+          "pivot": {
+            "vacancy_id": 1407074,
+            "city_id": 97
+          }
+        },
+        {
+          "id": 166,
+          "code": "madrid",
+          "name": "Мадрид",
+          "name_en": "Madrid",
+          "country_code": "spain",
+          "pivot": {
+            "vacancy_id": 1407074,
+            "city_id": 166
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407073,
+      "title": "ICT Specialist (Microsoft 365)",
+      "slug": "1407073-microsoft-365-ict-specialist",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "italy"
+      ],
+      "allowed_locations": [
+        "italy"
+      ],
+      "excluded_locations": [],
+      "office_locations": [
+        "italy"
+      ],
+      "updated_at": "2026-11-12T17:04:30.000000Z",
+      "created_at": "2026-11-12T17:04:23.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "italy"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712300,
+          "vacancy_id": 1407073,
+          "type": "url",
+          "url_type": null,
+          "value": "https://gbionics.ai/careers/112026-52-ict-specialist",
+          "short_code": "nw9V",
+          "created_at": "2026-11-12T17:04:30.000000Z",
+          "updated_at": "2026-11-12T17:04:30.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 202,
+          "name": "azure"
+        },
+        {
+          "id": 814,
+          "name": "windows server"
+        },
+        {
+          "id": 1561,
+          "name": "powershell"
+        },
+        {
+          "id": 2165,
+          "name": "microsoft 365"
+        },
+        {
+          "id": 4455,
+          "name": "sharepoint"
+        },
+        {
+          "id": 11543,
+          "name": "identity management"
+        },
+        {
+          "id": 13017,
+          "name": "microsoft teams"
+        },
+        {
+          "id": 14641,
+          "name": "intune"
+        },
+        {
+          "id": 27978,
+          "name": "exchange online"
+        },
+        {
+          "id": 30540,
+          "name": "microsoft entra id"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 20,
+          "code": "system_engineering",
+          "name": "Системная инженерия и администрирование",
+          "name_en": "Systems Engineering & Administration"
+        }
+      ],
+      "grades": [],
+      "regions": [
+        {
+          "id": 42,
+          "code": "italy",
+          "name": "Италия",
+          "name_en": "Italy"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 2570,
+          "code": "genoa",
+          "name": "Генуя",
+          "name_en": "Genoa",
+          "country_code": "italy",
+          "pivot": {
+            "vacancy_id": 1407073,
+            "city_id": 2570
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407071,
+      "title": "Senior Manager, Compliance Program Administration",
+      "slug": "1407071-senior-compliance-program-manager",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "remote"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:18.000000Z",
+      "created_at": "2026-11-12T17:04:06.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712299,
+          "vacancy_id": 1407071,
+          "type": "url",
+          "url_type": null,
+          "value": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Senior-Manager--Ethics---Compliance_1675597",
+          "short_code": "5jKW3",
+          "created_at": "2026-11-12T17:04:18.000000Z",
+          "updated_at": "2026-11-12T17:04:18.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 375,
+          "name": "risk management"
+        },
+        {
+          "id": 544,
+          "name": "compliance"
+        },
+        {
+          "id": 1107,
+          "name": "program management"
+        },
+        {
+          "id": 2081,
+          "name": "regulatory compliance"
+        },
+        {
+          "id": 40147,
+          "name": "medicare"
+        },
+        {
+          "id": 54345,
+          "name": "medicaid"
+        },
+        {
+          "id": 73482,
+          "name": "managed care"
+        },
+        {
+          "id": 92751,
+          "name": "healthcare administration"
+        }
+      ],
+      "salary": {
+        "id": 578551,
+        "vacancy_id": 1407071,
+        "currency": "USD",
+        "salary_period": "year",
+        "min": 107700,
+        "max": 199300,
+        "salary_in_usd": 12792,
+        "created_at": "2026-11-12T17:04:18.000000Z",
+        "updated_at": "2026-11-12T17:04:18.000000Z"
+      },
+      "specializations": [
+        {
+          "id": 52,
+          "code": "legal",
+          "name": "Юриспруденция",
+          "name_en": "Legal"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": []
+    },
+    {
+      "id": 1407072,
+      "title": "AWS Cloud Security Architect (Gen AI Security Architect)",
+      "slug": "1407072-aws-cloud-security-architect",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:04:16.000000Z",
+      "created_at": "2026-11-12T17:04:07.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712298,
+          "vacancy_id": 1407072,
+          "type": "url",
+          "url_type": null,
+          "value": "https://jobs.systemone.com/job/aws-cloud-security-architect-information-technology-columbia-south-carolina-383368/70e1fbb0-deae-11f1-a6aa-0242db9b5dbc",
+          "short_code": "6FMlY",
+          "created_at": "2026-11-12T17:04:16.000000Z",
+          "updated_at": "2026-11-12T17:04:17.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 365,
+          "name": "siem"
+        },
+        {
+          "id": 366,
+          "name": "iam"
+        },
+        {
+          "id": 3749,
+          "name": "threat modeling"
+        },
+        {
+          "id": 5414,
+          "name": "cloud security"
+        },
+        {
+          "id": 7631,
+          "name": "api security"
+        },
+        {
+          "id": 8513,
+          "name": "container security"
+        },
+        {
+          "id": 62272,
+          "name": "cybersecurity architecture"
+        },
+        {
+          "id": 232517,
+          "name": "genai security"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 17,
+          "code": "cybersecurity",
+          "name": "Кибербезопасность",
+          "name_en": "Cybersecurity"
+        },
+        {
+          "id": 47,
+          "code": "architecture",
+          "name": "Архитектура",
+          "name_en": "Architecture"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 479,
+          "code": "columbia",
+          "name": "Колумбия",
+          "name_en": "Columbia",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407072,
+            "city_id": 479
+          }
+        },
+        {
+          "id": 1083,
+          "code": "lafayette",
+          "name": "Лафайет",
+          "name_en": "Lafayette",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407072,
+            "city_id": 1083
+          }
+        },
+        {
+          "id": 1096,
+          "code": "knoxville",
+          "name": "Ноксвилл",
+          "name_en": "Knoxville",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407072,
+            "city_id": 1096
+          }
+        },
+        {
+          "id": 7446,
+          "code": "birmingham_al",
+          "name": "Бирмингем",
+          "name_en": "Birmingham",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407072,
+            "city_id": 7446
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407070,
+      "title": "Data Engineer (Palantir Foundry)",
+      "slug": "1407070-data-engineer-palantir-foundry",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "usa",
+      "remote_restrictions": [
+        "united_states"
+      ],
+      "allowed_locations": [
+        "united_states"
+      ],
+      "excluded_locations": [],
+      "office_locations": [
+        "united_states"
+      ],
+      "updated_at": "2026-11-12T17:04:01.000000Z",
+      "created_at": "2026-11-12T17:03:54.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment",
+        "b2b_contract"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_states"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712297,
+          "vacancy_id": 1407070,
+          "type": "url",
+          "url_type": null,
+          "value": "https://jobs.systemone.com/job/data-engineer-information-technology-fort-belvoir-virginia-382706/9cfce0ce-deae-11f1-bb83-0242663b9cdc",
+          "short_code": "1CjI9",
+          "created_at": "2026-11-12T17:04:01.000000Z",
+          "updated_at": "2026-11-12T17:04:01.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 495,
+          "name": "data modeling"
+        },
+        {
+          "id": 538,
+          "name": "ci cd"
+        },
+        {
+          "id": 885,
+          "name": "devsecops"
+        },
+        {
+          "id": 2774,
+          "name": "data pipelines"
+        },
+        {
+          "id": 5412,
+          "name": "data quality"
+        },
+        {
+          "id": 9302,
+          "name": "data lineage"
+        },
+        {
+          "id": 26763,
+          "name": "ontology"
+        },
+        {
+          "id": 39392,
+          "name": "palantir foundry"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 63,
+          "code": "data_engineering",
+          "name": "Дата-инженер",
+          "name_en": "Data Engineer"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 6,
+          "code": "united_states",
+          "name": "США",
+          "name_en": "United States"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 4556,
+          "code": "fort_belvoir",
+          "name": "Форт-Бельвуар",
+          "name_en": "Fort Belvoir",
+          "country_code": "united_states",
+          "pivot": {
+            "vacancy_id": 1407070,
+            "city_id": 4556
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407069,
+      "title": "Cordinador de proyectos de la propiedad",
+      "slug": "1407069-property-project-coordinator",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "onsite"
+      ],
+      "work_type": "fulltime",
+      "remote_type": null,
+      "remote_restrictions": [
+        "mexico"
+      ],
+      "allowed_locations": [
+        "mexico"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:03:41.000000Z",
+      "created_at": "2026-11-12T17:03:37.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "mexico"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712295,
+          "vacancy_id": 1407069,
+          "type": "url",
+          "url_type": null,
+          "value": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Mexico---San-Luis-Potosi/Cordinador-de-proyectos-de-la-propiedad_2026-24962",
+          "short_code": "2lEfB",
+          "created_at": "2026-11-12T17:03:41.000000Z",
+          "updated_at": "2026-11-12T17:03:41.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 682,
+          "name": "project coordination"
+        },
+        {
+          "id": 1167,
+          "name": "microsoft office"
+        },
+        {
+          "id": 3806,
+          "name": "autocad"
+        },
+        {
+          "id": 5773,
+          "name": "ms project"
+        },
+        {
+          "id": 10550,
+          "name": "facilities management"
+        },
+        {
+          "id": 23271,
+          "name": "cmms"
+        },
+        {
+          "id": 154977,
+          "name": "expense accounting"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 11,
+          "code": "project_management",
+          "name": "Project менеджмент",
+          "name_en": "Project Management"
+        }
+      ],
+      "grades": [],
+      "regions": [
+        {
+          "id": 35,
+          "code": "mexico",
+          "name": "Мексика",
+          "name_en": "Mexico"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 3094,
+          "code": "san_luis_potosi",
+          "name": "Сан-Луис-Потоси",
+          "name_en": "San Luis Potosi",
+          "country_code": "mexico",
+          "pivot": {
+            "vacancy_id": 1407069,
+            "city_id": 3094
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407063,
+      "title": "Data Analysis Team Lead (AI)",
+      "slug": "1407063-data-analysis-team-lead-ai",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "remote"
+      ],
+      "work_type": "fulltime",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "romania"
+      ],
+      "allowed_locations": [
+        "romania"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:03:41.000000Z",
+      "created_at": "2026-11-12T17:03:04.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [
+        "employment"
+      ],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "romania"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712296,
+          "vacancy_id": 1407063,
+          "type": "url",
+          "url_type": null,
+          "value": "https://jobs.lever.co/viseven/01fa7ee6-208a-4667-a468-f23d8195f730",
+          "short_code": "oQ8p",
+          "created_at": "2026-11-12T17:03:41.000000Z",
+          "updated_at": "2026-11-12T17:03:41.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 44,
+          "name": "bi"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 85,
+          "name": "data engineering"
+        },
+        {
+          "id": 363,
+          "name": "aws"
+        },
+        {
+          "id": 495,
+          "name": "data modeling"
+        },
+        {
+          "id": 538,
+          "name": "ci cd"
+        },
+        {
+          "id": 546,
+          "name": "power bi"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 44,
+          "code": "data_analytics",
+          "name": "Аналитика данных",
+          "name_en": "Data Analytics"
+        },
+        {
+          "id": 63,
+          "code": "data_engineering",
+          "name": "Дата-инженер",
+          "name_en": "Data Engineer"
+        }
+      ],
+      "grades": [
+        {
+          "id": 5,
+          "name": "lead"
+        }
+      ],
+      "regions": [
+        {
+          "id": 24,
+          "code": "romania",
+          "name": "Румыния",
+          "name_en": "Romania"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 535,
+          "code": "bucharest",
+          "name": "Бухарест",
+          "name_en": "Bucharest",
+          "country_code": "romania",
+          "pivot": {
+            "vacancy_id": 1407063,
+            "city_id": 535
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407065,
+      "title": "Lead Product Analyst / Product Data Scientist (FinCrime/Fraud)",
+      "slug": "1407065-lead-product-analyst-fraud",
+      "company_title": "%hirify_global%",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [
+        "hybrid",
+        "remote"
+      ],
+      "work_type": "project",
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:03:40.000000Z",
+      "created_at": "2026-11-12T17:03:13.000000Z",
+      "verified": false,
+      "premium": true,
+      "source": "scout",
+      "source_secondary": "global",
+      "employee_type": [],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "restricted",
+      "eligible_countries": [
+        "united_kingdom"
+      ],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712294,
+          "vacancy_id": 1407065,
+          "type": "url",
+          "url_type": null,
+          "value": "https://www.xcede.com/jobs/product-data-analytics-product-data-scientists-fraud-fincrime-31857275",
+          "short_code": "2rESg",
+          "created_at": "2026-11-12T17:03:40.000000Z",
+          "updated_at": "2026-11-12T17:03:40.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 84,
+          "name": "data science"
+        },
+        {
+          "id": 159,
+          "name": "data visualization"
+        },
+        {
+          "id": 282,
+          "name": "dbt"
+        },
+        {
+          "id": 487,
+          "name": "fraud"
+        },
+        {
+          "id": 769,
+          "name": "airflow"
+        },
+        {
+          "id": 1691,
+          "name": "genai"
+        },
+        {
+          "id": 1966,
+          "name": "product analytics"
+        },
+        {
+          "id": 6572,
+          "name": "financial crime"
+        },
+        {
+          "id": 7584,
+          "name": "freelance"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 64,
+          "code": "data_science",
+          "name": "Data Scientist",
+          "name_en": "Data Scientist"
+        },
+        {
+          "id": 70,
+          "code": "product_analyst",
+          "name": "Продуктовый аналитик",
+          "name_en": "Product Analyst"
+        }
+      ],
+      "grades": [
+        {
+          "id": 5,
+          "name": "lead"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": [],
+      "cities": [
+        {
+          "id": 49,
+          "code": "london",
+          "name": "Лондон",
+          "name_en": "London",
+          "country_code": "united_kingdom",
+          "pivot": {
+            "vacancy_id": 1407065,
+            "city_id": 49
+          }
+        }
+      ]
+    },
+    {
+      "id": 1407068,
+      "title": "Head of Marketing (B2B2C)",
+      "slug": "1407068-head-of-marketing-b2b2c",
+      "company_title": "TYB",
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "work_format": [],
+      "work_type": "fulltime",
+      "remote_type": null,
+      "remote_restrictions": [],
+      "allowed_locations": [],
+      "excluded_locations": [],
+      "office_locations": [],
+      "updated_at": "2026-11-12T17:03:34.000000Z",
+      "created_at": "2026-11-12T17:03:33.000000Z",
+      "verified": false,
+      "premium": false,
+      "source": "telegram",
+      "source_secondary": "telegram",
+      "employee_type": [],
+      "visa_sponsorship": null,
+      "seen": false,
+      "is_favorite": false,
+      "can_apply_directly": false,
+      "apply_url": null,
+      "location_scope": "unknown",
+      "eligible_countries": [],
+      "ineligible_countries": [],
+      "has_applied": false,
+      "application_id": null,
+      "is_in_manager": false,
+      "valid_through": "2026-12-10T21:03:34+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "contacts": [
+        {
+          "id": 1712293,
+          "vacancy_id": 1407068,
+          "type": "linkedin",
+          "url_type": null,
+          "value": "https://www.linkedin.com/posts/meganmorris873_were-hiring-two-marketing-leaders-at-tyb-share-7526338761157398530-I3ec/",
+          "short_code": "rrcA",
+          "created_at": "2026-11-12T17:03:34.000000Z",
+          "updated_at": "2026-11-12T17:03:34.000000Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 117,
+          "name": "marketing"
+        },
+        {
+          "id": 1205,
+          "name": "marketplace"
+        },
+        {
+          "id": 2525,
+          "name": "brand strategy"
+        },
+        {
+          "id": 9106,
+          "name": "b2b2c"
+        },
+        {
+          "id": 9854,
+          "name": "community building"
+        },
+        {
+          "id": 47466,
+          "name": "loyalty marketing"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 13,
+          "code": "marketing",
+          "name": "Маркетинг",
+          "name_en": "Marketing"
+        }
+      ],
+      "grades": [
+        {
+          "id": 7,
+          "name": "head"
+        }
+      ],
+      "regions": [],
+      "relocation_regions": [],
+      "cities": []
+    }
+  ],
+  "first_page_url": "https://api.hirify.me/api/vacancies?page=1",
+  "from": 1,
+  "last_page": 10873,
+  "last_page_url": "https://api.hirify.me/api/vacancies?page=10873",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=2",
+      "label": "2",
+      "page": 2,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=3",
+      "label": "3",
+      "page": 3,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=4",
+      "label": "4",
+      "page": 4,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=5",
+      "label": "5",
+      "page": 5,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=6",
+      "label": "6",
+      "page": 6,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=7",
+      "label": "7",
+      "page": 7,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=8",
+      "label": "8",
+      "page": 8,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=9",
+      "label": "9",
+      "page": 9,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=10",
+      "label": "10",
+      "page": 10,
+      "active": false
+    },
+    {
+      "url": null,
+      "label": "...",
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=10872",
+      "label": "10872",
+      "page": 10872,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=10873",
+      "label": "10873",
+      "page": 10873,
+      "active": false
+    },
+    {
+      "url": "https://api.hirify.me/api/vacancies?page=2",
+      "label": "Next &raquo;",
+      "page": 2,
+      "active": false
+    }
+  ],
+  "next_page_url": "https://api.hirify.me/api/vacancies?page=2",
+  "path": "https://api.hirify.me/api/vacancies",
+  "per_page": 20,
+  "prev_page_url": null,
+  "to": 20,
+  "total": 217454
+}

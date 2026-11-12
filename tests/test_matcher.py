@@ -101,6 +101,7 @@ def test_canonical_tag_matching():
 
 def test_salary_parsing_and_display():
     from hirify_mcp.models import SalaryItem
+
     vacancy = VacancySummary(
         id=99,
         title="Python Dev",

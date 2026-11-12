@@ -1,6 +1,10 @@
-"""Integration and contract tests for Hirify Scraper using Scrapling."""
+"""Integration and contract tests for Hirify Scraper."""
+
+import pytest
 
 from hirify_mcp.scraper import HirifyScraper
+
+pytestmark = pytest.mark.integration
 
 
 def test_scraper_search_vacancies():

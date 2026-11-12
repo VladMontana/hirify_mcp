@@ -1,12 +1,17 @@
-"""Tests for the MCP Server entry points and tools."""
+"""Live integration tests for the MCP Server entry points and tools."""
 
 import json
+
+import pytest
+
 from hirify_mcp.server import (
     get_vacancy_details,
     match_vacancies,
     parse_profile,
     search_vacancies,
 )
+
+pytestmark = pytest.mark.integration
 
 
 def test_parse_profile_tool():
@@ -26,8 +31,8 @@ def test_search_vacancies_tool():
 
 
 def test_get_vacancy_details_tool():
-    # First search for any vacancy
     from hirify_mcp.scraper import HirifyScraper
+
     scraper = HirifyScraper()
     vacs = scraper.search_vacancies(query="python", limit=1)
     assert len(vacs) > 0

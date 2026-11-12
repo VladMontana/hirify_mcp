@@ -1,0 +1,1313 @@
+{
+  "id": 1399013,
+  "spec_vocab_version": "v4",
+  "main_stack": [
+    "python",
+    "llm",
+    "rag"
+  ],
+  "slug": "1399013-python-ai-developer",
+  "title": "Python Developer (AI)",
+  "original_title": "Python Developer",
+  "vacancy_score": 8,
+  "company_title": "%hirify_global%",
+  "work_format": [
+    "hybrid"
+  ],
+  "remote_type": "europe",
+  "remote_restrictions": [
+    "united_kingdom",
+    "ireland"
+  ],
+  "excluded_locations": [],
+  "work_type": "fulltime",
+  "english_level": "b2",
+  "language_requirements": null,
+  "employee_type": [
+    "employment"
+  ],
+  "company_type": "product_company",
+  "vacancy_language": "en",
+  "text": "<p class=\"location\">Location: <strong>Hybrid role in Dublin, Ireland or London, UK</strong></p><h3 class=\"company-description\">Company</h3><p>%hirify_global% develops XpertOS, an agentic SaaS product that integrates AI agents into a customer engagement platform.</p><h3 class=\"what-you-will-do\">What you will do</h3><ul><li>Build and release customer-facing XpertOS features in Python from customer problem discovery through testing and deployment.</li><li>Work with the product team to shape feature scope, priorities, specifications, and shippable increments.</li><li>Use AI coding agents throughout planning, development, testing, and code review.</li><li>Build and improve LLM-powered agents, including prompts, tools, retrieval, and evaluation.</li><li>Plan, test, document, and deploy maintainable code while learning and using AWS services supporting XpertOS.</li><li>Contribute to shared agent skills, workflows, guardrails, tooling, and development practices.</li></ul><h3 class=\"requirements\">Requirements</h3><ul><li>1–3 years of professional experience building Python applications.</li><li>Professional proficiency with agentic development and regular use of AI coding agents such as Claude Code, Cursor, or Copilot agents, including the ability to explain how reliable results are achieved.</li><li>Product mindset focused on customer needs, outcomes, and the purpose behind features.</li><li>Strong interest in agentic SaaS, LLMs, and customer-facing applications.</li><li>Sound fundamentals in testing, version control, code review, and maintainable software development.</li><li>Excellent analytical and problem-solving skills.</li><li>Clear written and spoken communication with technical and non-technical people.</li><li>Ability to work independently and as part of a team.</li><li><strong>Ability to work in the hybrid Dublin or London setup.</strong></li></ul><h3 class=\"nice-to-have\">Nice to have</h3><ul><li>Hands-on experience with LLM APIs, agent frameworks, retrieval/RAG, or LLM evaluation.</li><li>Side projects, open-source work, or independently shipped products, especially agentic projects.</li><li>Experience with AWS services such as Lambda, Bedrock, or Cognito.</li><li>Exposure to product discovery, including user interviews, specification writing, or backlog prioritization.</li><li>Familiarity with ClickHouse or SQL analytics.</li></ul><h3 class=\"culture-benefits\">Culture &amp; Benefits</h3><ul><li>Hybrid work in Dublin, Ireland or London, UK.</li><li>AI coding agents are an integral part of the development workflow.</li><li>Opportunity to influence product direction, tooling, workflows, and development practices.</li><li>Ideas and input are valued from the outset.</li></ul><h3 class=\"hiring-process\">Hiring process</h3><ul><li>The interview explores experience with AI agents, approaches to product challenges, and technical experience.</li></ul>",
+  "tldr": "Python Developer (AI) (Python/LLM Agents): Building customer-facing features and LLM-powered agents for XpertOS, an agentic SaaS product, with an accent on product thinking, AI coding agents, retrieval, prompts, tools, and evaluation. Focus on designing reliable agent workflows, developing and testing Python functionality, and shaping solutions around customer needs.",
+  "application_instructions": null,
+  "text_mode": null,
+  "clear_text": null,
+  "user_id": null,
+  "recruiter_meta_id": null,
+  "application_channel": "contacts",
+  "suppress_distribution": false,
+  "company_id": 10599,
+  "macroregion_id": 4,
+  "premium": true,
+  "verified": false,
+  "is_scam": false,
+  "is_potential_scam": false,
+  "scam_categories": null,
+  "source": "scout",
+  "source_secondary": "global",
+  "linkedin": null,
+  "is_archived": false,
+  "no_response_reports_count": 0,
+  "og_image_url": "https://api.hirify.me/og-media/1399013.jpg?v=1794408039",
+  "created_at": "2026-11-11T14:40:15.000000Z",
+  "updated_at": "2026-11-11T14:40:36.000000Z",
+  "reopened_at": null,
+  "archived_at": null,
+  "allowed_locations": [
+    "united_kingdom",
+    "ireland"
+  ],
+  "location_reason": "office_presence",
+  "timezone_overlap": null,
+  "office_locations": [],
+  "visa_sponsorship": null,
+  "visa_requirements": [],
+  "global_signals": [],
+  "nice_to_have_tags": [],
+  "crypto_payment": null,
+  "seo_description": "🔥Python Developer (AI) (hybrid, fulltime). Work with ai, testing, python, sql, aws. Hirify AI score: 8/10!",
+  "seo_keywords": {
+    "0": "ai",
+    "1": "testing",
+    "2": "python",
+    "3": "sql",
+    "4": "aws",
+    "5": "llm",
+    "6": "rag",
+    "7": "agentic development",
+    "9": "developer",
+    "10": "(ai)"
+  },
+  "seo_noindex": false,
+  "contacts_type": [
+    "url"
+  ],
+  "availability": {
+    "state": "confirmed",
+    "misses": 0,
+    "misses_before_removal": 3,
+    "resolves_within_hours": null
+  },
+  "location_scope": "restricted",
+  "eligible_countries": [
+    "ireland",
+    "united_kingdom"
+  ],
+  "ineligible_countries": [],
+  "has_applied": false,
+  "application_id": null,
+  "is_in_manager": false,
+  "can_apply_directly": false,
+  "apply_url": null,
+  "similar_vacancies_source": "table",
+  "similar_vacancies": [
+    {
+      "id": 1390156,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "llm",
+        "rag"
+      ],
+      "slug": "1390156-forward-deployed-ai-engineer",
+      "title": "Forward Deployed AI Engineer",
+      "original_title": "Forward Deployed AI Engineer",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "outsourcing_company",
+      "vacancy_language": "en",
+      "tldr": "Forward Deployed AI Engineer (AI/LLM): Building agentic components, prototypes, and internal tools that turn AI strategy methodology into working software, with an accent on rapid prototyping, enterprise integrations, and evolving AI toolchains. Focus on connecting LLMs to enterprise data and services, orchestrating agentic systems, evaluating new AI products, and delivering validated components across global client projects.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 2927,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1390156.jpg?v=1794313171",
+      "created_at": "2026-11-10T12:19:21.000000Z",
+      "updated_at": "2026-11-10T12:19:29.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "remote_type_source": "office",
+      "geo_inference": {
+        "geo_trace": [
+          {
+            "to": "office",
+            "from": null,
+            "step": "facts_guard",
+            "field": "remote_type_source"
+          },
+          {
+            "to": [
+              "united_kingdom"
+            ],
+            "from": null,
+            "step": "facts_guard",
+            "field": "remote_restrictions"
+          },
+          {
+            "to": [
+              "united_kingdom"
+            ],
+            "from": null,
+            "step": "countries_derive",
+            "field": "countries"
+          },
+          {
+            "to": [
+              "europe"
+            ],
+            "from": null,
+            "step": "countries_derive",
+            "field": "geo_regions"
+          }
+        ],
+        "chip_reason": "Location: London; hybrid working policy requiring 2 days from the London office"
+      },
+      "field_inference": null,
+      "nice_to_have_tags": [
+        "openapi",
+        "model context protocol",
+        "paid media",
+        "social platforms",
+        "agentic commerce",
+        "generative engine optimisation",
+        "evaluation, tracing, and observability for llm applications"
+      ],
+      "crypto_payment": null,
+      "seen": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 50,
+          "name": "go"
+        },
+        {
+          "id": 119,
+          "name": "typescript"
+        },
+        {
+          "id": 270,
+          "name": "api"
+        },
+        {
+          "id": 398,
+          "name": "llm"
+        },
+        {
+          "id": 399,
+          "name": "rag"
+        },
+        {
+          "id": 400,
+          "name": "langchain"
+        },
+        {
+          "id": 23759,
+          "name": "agentic systems"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": []
+    },
+    {
+      "id": 1364914,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "sql",
+        "microservices"
+      ],
+      "slug": "1364914-software-engineer-ai-backend",
+      "title": "Software Engineer (AI)",
+      "original_title": "Software Engineer",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "onsite"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Software Engineer (AI): Building and maintaining back-end services and scalable systems for AI-powered products with an accent on high-performance data processing, cloud deployment, and reliable integration with front-end and data science systems. Focus on optimizing databases and machine learning infrastructure, designing microservices, and solving complex performance, reliability, and scalability challenges.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 21362,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1364914.jpg?v=1793826413",
+      "created_at": "2026-11-04T21:06:45.000000Z",
+      "updated_at": "2026-11-04T21:06:50.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "remote_type_source": "office",
+      "geo_inference": {
+        "chip_reason": "Conditions: London, United Kingdom | Full Time"
+      },
+      "field_inference": null,
+      "nice_to_have_tags": [
+        "saas",
+        "security best practices",
+        "machine learning concepts"
+      ],
+      "crypto_payment": null,
+      "seen": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 24,
+          "name": "java"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 480,
+          "name": "microservices"
+        },
+        {
+          "id": 588,
+          "name": "nosql"
+        },
+        {
+          "id": 1133,
+          "name": "cloud computing"
+        },
+        {
+          "id": 17559,
+          "name": "node"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        },
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 2,
+          "name": "junior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": []
+    },
+    {
+      "id": 1393313,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "llm",
+        "voice ai"
+      ],
+      "slug": "1393313-forward-deployed-ai-engineer",
+      "title": "Forward Deployed Engineer (Agentic AI)",
+      "original_title": "Forward Deployed Engineer, Agentic AI",
+      "vacancy_score": 8,
+      "company_title": "PolyAI",
+      "work_format": [
+        "remote"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Forward Deployed Engineer (Agentic AI) (LLM agents and voice automation): Building, deploying, and improving production conversational agents integrated with enterprise systems and telephony with an accent on real-time voice interactions, reliable tool use, and production ownership. Focus on debugging live calls, designing evaluation sets and experiments, optimizing latency and caller outcomes, and turning customer solutions into reusable platform capabilities.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 979,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1393313.jpg?v=1794333867",
+      "created_at": "2026-11-10T18:04:02.000000Z",
+      "updated_at": "2026-11-10T18:04:24.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "location_reason": "unspecified",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "remote_type_source": "stated",
+      "geo_inference": {
+        "geo_trace": [
+          {
+            "to": "stated",
+            "from": null,
+            "step": "facts_guard",
+            "field": "remote_type_source"
+          },
+          {
+            "to": [
+              "united_kingdom"
+            ],
+            "from": null,
+            "step": "facts_guard",
+            "field": "remote_restrictions"
+          },
+          {
+            "to": [
+              "united_kingdom"
+            ],
+            "from": null,
+            "step": "countries_derive",
+            "field": "countries"
+          },
+          {
+            "to": [
+              "europe"
+            ],
+            "from": null,
+            "step": "countries_derive",
+            "field": "geo_regions"
+          }
+        ],
+        "chip_reason": "Location: United Kingdom"
+      },
+      "field_inference": {
+        "grade": {
+          "p": 0.9,
+          "basis": "clarifier",
+          "value": [
+            "senior"
+          ],
+          "choice": "senior"
+        }
+      },
+      "nice_to_have_tags": [
+        "ivr",
+        "ccaas platforms",
+        "real time audio",
+        "experimentation",
+        "ml background",
+        "test set",
+        "online experiment",
+        "healthcare",
+        "utilities",
+        "financial services",
+        "go",
+        "c++",
+        "high throughput real time systems"
+      ],
+      "crypto_payment": null,
+      "seen": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 398,
+          "name": "llm"
+        },
+        {
+          "id": 560,
+          "name": "apis"
+        },
+        {
+          "id": 691,
+          "name": "a b testing"
+        },
+        {
+          "id": 1267,
+          "name": "sip"
+        },
+        {
+          "id": 1353,
+          "name": "integrations"
+        },
+        {
+          "id": 3732,
+          "name": "telephony"
+        },
+        {
+          "id": 14366,
+          "name": "voice ai"
+        },
+        {
+          "id": 30721,
+          "name": "evals"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": []
+    },
+    {
+      "id": 1372657,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        "pytorch",
+        "llm"
+      ],
+      "slug": "1372657-ai-post-training-engineer",
+      "title": "AI Engineer: Post-Training (AI)",
+      "original_title": "AI Engineer: Post-Training",
+      "vacancy_score": 9,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "onsite"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "AI Engineer: Post-Training (AI): Building a product capability for improving LLMs on customer workflows with an accent on post-training methods, evaluation, data pipelines, and deployable model artifacts. Focus on designing reward signals and verifiers, diagnosing reward hacking and model regressions, and delivering customer-controlled model customisation across SaaS, VPC, and air-gapped environments.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 4558,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1372657.jpg?v=1793924629",
+      "created_at": "2026-11-06T00:23:40.000000Z",
+      "updated_at": "2026-11-06T00:23:45.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom",
+        "united_states",
+        "singapore"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "remote_type_source": "office",
+      "geo_inference": {
+        "chip_reason": "Location: London"
+      },
+      "field_inference": {
+        "grade": {
+          "p": 0.92,
+          "basis": "clarifier",
+          "value": [
+            "senior"
+          ],
+          "choice": "senior"
+        }
+      },
+      "nice_to_have_tags": [
+        "post training open weight models",
+        "tool use",
+        "reasoning",
+        "long horizon agent workflows",
+        "rollout generation",
+        "reward models",
+        "verifiers",
+        "online reinforcement learning",
+        "model customisation products",
+        "post training research",
+        "open source training frameworks",
+        "simulation",
+        "manufacturing",
+        "regulated, customer controlled or air gapped environments"
+      ],
+      "crypto_payment": null,
+      "seen": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 398,
+          "name": "llm"
+        },
+        {
+          "id": 615,
+          "name": "pytorch"
+        },
+        {
+          "id": 2345,
+          "name": "reinforcement learning"
+        },
+        {
+          "id": 17240,
+          "name": "model evaluation"
+        },
+        {
+          "id": 21041,
+          "name": "distributed training"
+        },
+        {
+          "id": 21896,
+          "name": "model serving"
+        },
+        {
+          "id": 21926,
+          "name": "synthetic data"
+        },
+        {
+          "id": 22961,
+          "name": "post training"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        },
+        {
+          "id": 65,
+          "code": "machine_learning",
+          "name": "ML-инженер",
+          "name_en": "ML Engineer"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": []
+    },
+    {
+      "id": 1364920,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python"
+      ],
+      "slug": "1364920-senior-backend-developer-ai",
+      "title": "Senior Software Developer (AI)",
+      "original_title": "Senior Software Developer",
+      "vacancy_score": 7,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "onsite"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Senior Software Developer (AI) (Python/Java/Node): Building and maintaining scalable back-end services for AI-powered publishing products with an accent on high-performance systems, large data volumes, and machine learning model integration. Focus on designing microservices, optimizing SQL and NoSQL data storage, deploying cloud applications, and improving reliability under demanding launch deadlines.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 21362,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1364920.jpg?v=1793826446",
+      "created_at": "2026-11-04T21:07:18.000000Z",
+      "updated_at": "2026-11-04T21:07:23.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom"
+      ],
+      "visa_sponsorship": null,
+      "visa_requirements": [],
+      "global_signals": [],
+      "remote_type_source": "office",
+      "geo_inference": {
+        "chip_reason": "Location: London, United Kingdom; Conditions: Full Time"
+      },
+      "field_inference": null,
+      "nice_to_have_tags": [
+        "security best practices for back end development",
+        "machine learning concepts"
+      ],
+      "crypto_payment": null,
+      "seen": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 24,
+          "name": "java"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 189,
+          "name": "rest api"
+        },
+        {
+          "id": 480,
+          "name": "microservices"
+        },
+        {
+          "id": 588,
+          "name": "nosql"
+        },
+        {
+          "id": 1133,
+          "name": "cloud computing"
+        },
+        {
+          "id": 17559,
+          "name": "node"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        }
+      ],
+      "relocation_regions": []
+    },
+    {
+      "id": 1371396,
+      "spec_vocab_version": "v4",
+      "main_stack": [
+        "python",
+        ".net",
+        "sql"
+      ],
+      "slug": "1371396-senior-backend-engineer-python-ai",
+      "title": "Senior Backend Engineer (Python / .NET)",
+      "original_title": "Senior Backend Engineer (Python / .Net)",
+      "vacancy_score": 8,
+      "company_title": "%hirify_global%",
+      "work_format": [
+        "hybrid"
+      ],
+      "remote_type": "europe",
+      "remote_restrictions": [
+        "united_kingdom",
+        "ireland",
+        "germany",
+        "netherlands"
+      ],
+      "excluded_locations": [],
+      "work_type": "fulltime",
+      "english_level": "b2",
+      "language_requirements": null,
+      "employee_type": [
+        "employment"
+      ],
+      "company_type": "product_company",
+      "vacancy_language": "en",
+      "tldr": "Senior Backend Engineer (Python / .NET) (AI workplace benefits platform): Building features for Brain, an AI product that helps Reward Directors select employee benefits, with an accent on GenAI, agent orchestration, RAG, and backend API development. Focus on designing reliable production systems, improving observability and security, and integrating AI-assisted engineering practices across Python, .NET, SQL, and cloud infrastructure.",
+      "application_instructions": null,
+      "text_mode": null,
+      "user_id": null,
+      "recruiter_meta_id": null,
+      "application_channel": "contacts",
+      "suppress_distribution": false,
+      "company_id": 21565,
+      "macroregion_id": 4,
+      "premium": true,
+      "verified": false,
+      "is_scam": false,
+      "is_potential_scam": false,
+      "scam_categories": null,
+      "source": "scout",
+      "source_secondary": "global",
+      "linkedin": null,
+      "is_archived": false,
+      "no_response_reports_count": 0,
+      "og_image_url": "https://api.hirify.me/og-media/1371396.jpg?v=1793911544",
+      "created_at": "2026-11-05T20:45:36.000000Z",
+      "updated_at": "2026-11-05T20:45:41.000000Z",
+      "reopened_at": null,
+      "archived_at": null,
+      "allowed_locations": [
+        "united_kingdom",
+        "ireland",
+        "germany",
+        "netherlands"
+      ],
+      "location_reason": "office_presence",
+      "timezone_overlap": null,
+      "office_locations": [
+        "united_kingdom"
+      ],
+      "visa_sponsorship": false,
+      "visa_requirements": [],
+      "global_signals": [],
+      "remote_type_source": "office",
+      "geo_inference": {
+        "chip_reason": "The role requires candidates to be based in the UK or Ireland, with quarterly visits to the UK HQ; benefits also list Germany and the Netherlands as eligible base locations."
+      },
+      "field_inference": null,
+      "nice_to_have_tags": [
+        "google pub sub",
+        "redis",
+        "langfuse",
+        "grafana",
+        "a2a integrations",
+        "mcp",
+        "rag",
+        "evals"
+      ],
+      "crypto_payment": null,
+      "seen": false,
+      "valid_through": "2026-12-12T21:09:05+04:00",
+      "has_linkedin_source": false,
+      "is_linkedin_easy_apply": false,
+      "tags": [
+        {
+          "id": 23,
+          "name": "ai"
+        },
+        {
+          "id": 36,
+          "name": ".net"
+        },
+        {
+          "id": 45,
+          "name": "python"
+        },
+        {
+          "id": 46,
+          "name": "sql"
+        },
+        {
+          "id": 51,
+          "name": "kubernetes"
+        },
+        {
+          "id": 364,
+          "name": "gcp"
+        },
+        {
+          "id": 400,
+          "name": "langchain"
+        },
+        {
+          "id": 480,
+          "name": "microservices"
+        },
+        {
+          "id": 538,
+          "name": "ci cd"
+        },
+        {
+          "id": 9184,
+          "name": "langgraph"
+        }
+      ],
+      "salary": null,
+      "specializations": [
+        {
+          "id": 2,
+          "code": "backend_dev",
+          "name": "Бэкенд",
+          "name_en": "Backend"
+        },
+        {
+          "id": 28,
+          "code": "ai_engineering",
+          "name": "AI-инженер (LLM, агенты)",
+          "name_en": "AI Engineer (LLM, agents)"
+        }
+      ],
+      "grades": [
+        {
+          "id": 4,
+          "name": "senior"
+        }
+      ],
+      "regions": [
+        {
+          "id": 4,
+          "code": "united_kingdom",
+          "name": "Великобритания",
+          "name_en": "United Kingdom"
+        },
+        {
+          "id": 22,
+          "code": "ireland",
+          "name": "Ирландия",
+          "name_en": "Ireland"
+        },
+        {
+          "id": 32,
+          "code": "netherlands",
+          "name": "Нидерланды",
+          "name_en": "Netherlands"
+        },
+        {
+          "id": 46,
+          "code": "germany",
+          "name": "Германия",
+          "name_en": "Germany"
+        }
+      ],
+      "relocation_regions": []
+    }
+  ],
+  "salary_stats": {
+    "vacancy_id": 1399013,
+    "vacancy_salary_usd": null,
+    "vacancy_salary_comparable_usd": null,
+    "vacancy_salary_annualized": false,
+    "vacancy_market": "international",
+    "display_currency": null,
+    "vacancy_salary": null,
+    "primary": {
+      "market": "international",
+      "period": "year",
+      "median_usd": 66288,
+      "p25_usd": 53592,
+      "p75_usd": 133284,
+      "sample_size": 14,
+      "sufficient": true,
+      "currency": null,
+      "median": null,
+      "p25": null,
+      "p75": null
+    },
+    "secondary": {
+      "market": "cis",
+      "period": "month",
+      "median_usd": 1105,
+      "p25_usd": 890,
+      "p75_usd": 1500,
+      "sample_size": 18,
+      "sufficient": true
+    },
+    "comparison": null,
+    "comparison_version": 2,
+    "comparison_reason": "not_comparable",
+    "vacancy_salary_range_comparable_usd": null
+  },
+  "valid_through": "2026-12-12T21:09:05+04:00",
+  "has_linkedin_source": false,
+  "is_linkedin_easy_apply": false,
+  "tags": [
+    {
+      "id": 23,
+      "name": "ai"
+    },
+    {
+      "id": 26,
+      "name": "testing"
+    },
+    {
+      "id": 45,
+      "name": "python"
+    },
+    {
+      "id": 46,
+      "name": "sql"
+    },
+    {
+      "id": 363,
+      "name": "aws"
+    },
+    {
+      "id": 398,
+      "name": "llm"
+    },
+    {
+      "id": 399,
+      "name": "rag"
+    },
+    {
+      "id": 79643,
+      "name": "agentic development"
+    }
+  ],
+  "salary": null,
+  "specializations": [
+    {
+      "id": 2,
+      "code": "backend_dev",
+      "name": "Бэкенд",
+      "name_en": "Backend"
+    },
+    {
+      "id": 28,
+      "code": "ai_engineering",
+      "name": "AI-инженер (LLM, агенты)",
+      "name_en": "AI Engineer (LLM, agents)"
+    },
+    {
+      "id": 119,
+      "code": "product_engineer",
+      "name": "Продуктовый инженер",
+      "name_en": "Product Engineer"
+    }
+  ],
+  "grades": [
+    {
+      "id": 2,
+      "name": "junior"
+    }
+  ],
+  "regions": [
+    {
+      "id": 4,
+      "code": "united_kingdom",
+      "name": "Великобритания",
+      "name_en": "United Kingdom"
+    },
+    {
+      "id": 22,
+      "code": "ireland",
+      "name": "Ирландия",
+      "name_en": "Ireland"
+    }
+  ],
+  "relocation_regions": [],
+  "cities": [
+    {
+      "id": 49,
+      "code": "london",
+      "name": "Лондон",
+      "name_en": "London",
+      "country_code": "united_kingdom",
+      "pivot": {
+        "vacancy_id": 1399013,
+        "city_id": 49
+      }
+    },
+    {
+      "id": 145,
+      "code": "dublin",
+      "name": "Дублин",
+      "name_en": "Dublin",
+      "country_code": "ireland",
+      "pivot": {
+        "vacancy_id": 1399013,
+        "city_id": 145
+      }
+    }
+  ],
+  "evaluation": {
+    "id": 1253282,
+    "vacancy_id": 1399013,
+    "data": {
+      "highlights": [
+        {
+          "kind": "other",
+          "title_en": "Location-bound",
+          "title_ru": "Только два города",
+          "assessment": "negative",
+          "explanation_en": "The hybrid setup requires you to work from Dublin or London, ruling it out if you are based elsewhere.",
+          "explanation_ru": "Гибридный формат требует работать из Дублина или Лондона, поэтому из других городов вакансия не подойдёт."
+        },
+        {
+          "kind": "other",
+          "title_en": "AI-focused domain",
+          "title_ru": "Фокус на ИИ",
+          "assessment": "positive",
+          "explanation_en": "The role builds an agentic SaaS product with LLM features, a relevant area for developing AI engineering experience.",
+          "explanation_ru": "Работа над SaaS-продуктом с ИИ-агентами и LLM помогает получить практический опыт в востребованном направлении."
+        },
+        {
+          "kind": "other",
+          "title_en": "Clear ownership",
+          "title_ru": "Работа над продуктом",
+          "assessment": "positive",
+          "explanation_en": "You contribute across customer discovery, feature development, testing, and release, with input into product priorities.",
+          "explanation_ru": "Вы участвуете в пути функции от понимания задачи клиента до релиза и можете влиять на приоритеты продукта."
+        },
+        {
+          "kind": "other",
+          "title_en": "Modern stack",
+          "title_ru": "Современные технологии",
+          "assessment": "positive",
+          "explanation_en": "Python, LLMs, retrieval, and AWS offer relevant technical exposure; prior AWS and agent-framework experience is optional.",
+          "explanation_ru": "Python, LLM, retrieval и AWS дают актуальный технический опыт; знание AWS и фреймворков для агентов указано как преимущество, а не обязательное условие."
+        }
+      ],
+      "vacancy_score": {
+        "score": 87,
+        "score_summary": "Clear ownership of customer-facing Python features, hands-on LLM engineering, and a product-company setting make this a strong early-career opportunity, though the hybrid location requirement limits access.",
+        "score_title_en": "Good job",
+        "score_title_ru": "Хорошая вакансия",
+        "score_summary_ru": "Понятная ответственность за пользовательские функции на Python, работа с LLM и продуктовая среда делают вакансию сильной для раннего этапа карьеры, но обязательный гибридный формат в Лондоне или Дублине ограничивает доступность.",
+        "salary_adjustment": 0,
+        "score_without_salary": 87
+      }
+    },
+    "ai_log_id": 21561964,
+    "created_at": "2026-11-11T14:41:53.000000Z",
+    "updated_at": "2026-11-11T14:41:53.000000Z"
+  }
+}
