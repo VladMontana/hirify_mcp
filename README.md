@@ -34,7 +34,7 @@ pip install -e .
 {
   "mcpServers": {
     "hirify": {
-      "command": "C:\\Users\\Влад\\Desktop\\hirify_mcp\\.venv\\Scripts\\python.exe",
+      "command": "path",
       "args": ["-m", "hirify_mcp.server"]
     }
   }
@@ -43,7 +43,7 @@ pip install -e .
 
 #### Cursor / Antigravity / Windsurf
 В настройках MCP добавьте новый сервер типа `command`:
-- **Command:** `C:\Users\Влад\Desktop\hirify_mcp\.venv\Scripts\python.exe`
+- **Command:** `C:\Users\"your_name"\Desktop\hirify_mcp\.venv\Scripts\python.exe`
 - **Args:** `["-m", "hirify_mcp.server"]`
 
 ## Доступные инструменты (MCP Tools)
